@@ -45,7 +45,7 @@ Feather Pin | LCD Pin
 ------------ | -------------
 3V | Vin
 GND | GND
-CLK | SLCK
+CLK | SCK
 MO | MOSI
 5 | RST
 6 | TFTCS
