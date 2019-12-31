@@ -1,6 +1,6 @@
 # What is a MandoPuter?
 
-A basic electronics system that will display Mandalorian characters on a small display. Use this as a starting point for adding displays to your costume (like a gauntlet).
+A basic electronics system that will display Mandalorian characters on a small display. Use this as a starting point for adding displays to your costume (like a gauntlet). Feel free to copy the design, modify it, or make feature requests.
 
 ### Parts list
 
