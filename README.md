@@ -49,10 +49,7 @@ CLK | SCK
 MO | MOSI
 5 | RST
 6 | TFTCS
-9 | DC
-
-
-![Image](https://github.com/Breazile/MandoPuter/blob/master/Feather.jpg)
+9 | DC ![Image](https://github.com/Breazile/MandoPuter/blob/master/Feather.jpg)
 
 ### Copy the files to the Feather
 
