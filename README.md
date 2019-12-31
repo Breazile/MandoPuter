@@ -41,6 +41,19 @@ Setup the Feather M4 first before you start soldering anything. Make sure the ba
 
 Solder the LCD to the Feather M4, so they can talk to each other. Adafruit has a great [soldering guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering) if you are new to soldering. The only thing they did not mention is adding flux to the solder joint first. That makes it much easier to make a good solder joint, and you only need to touch the parts for a second or two.
 
+Feather Pin | LCD Pin
+------------ | -------------
+3V | Vin
+GND | GND
+CLK | SLCK
+MO | MOSI
+5 | RST
+6 | TFTCS
+9 | DC
+
+
+![Image](https://github.com/Breazile/MandoPuter/blob/master/Wiring.jpg)
+
 ### Copy the files to the Feather
 
 ![Image](https://github.com/Breazile/MandoPuter/blob/master/MandoPuter.jpg)
