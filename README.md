@@ -24,7 +24,7 @@ You will need the following parts:
 6) [Tweezers](https://www.amazon.com/gp/product/B01MA5CCDO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 7) [Isopropyl Alcohol](https://www.amazon.com/gp/product/B005DNQX3C/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) for cleaning solder flux
 
-
+![Image](https://github.com/Breazile/MandoPuter/blob/master/MandoPuter.jpg)
 
 
 
