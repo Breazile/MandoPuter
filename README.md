@@ -51,7 +51,7 @@ MO | MOSI
 6 | TFTCS
 9 | DC 
 
-![Image](https://github.com/Breazile/MandoPuter/blob/master/Feather.jpg)
+![Image](Feather.jpg)
 
 ### Copy the files to the Feather
 
@@ -59,5 +59,8 @@ Download and extract the [zip file](MandoPuter.zip) that contains the code, libr
 
 ![Image](Files.jpg)
 
+Make sure you let the copy finish before you remove the USB cable or reset the board, or your system could be corrupted. It could take up to 90 seconds or more on some systems. If that happens, please read the [troubleshooting page](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/creating-and-editing-code)
 
-![Image](https://github.com/Breazile/MandoPuter/blob/master/MandoPuter.jpg)
+You should be ready to go. The system should run once the copy is done, and you should see the font look like this:
+
+![Image](MandoPuter.jpg)
