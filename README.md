@@ -8,7 +8,7 @@ You will need the following parts:
 
 1) Small LCD [Display](https://www.adafruit.com/product/4383)
 2) [Microcontroller Board](https://www.adafruit.com/product/3857)
-3) 4.2/3.7V [Battery](https://www.adafruit.com/category/917) (my 500 mAh battery in the picture below ran for over 11 hours)
+3) 4.2/3.7V [Battery](https://www.adafruit.com/category/917) (my 500 mAh battery in the picture below ran for over 12 hours)
 4) Small Gauge (22-30) [Wire](https://www.amazon.com/Stranded-Nano-Flexible-Insulated-Electrical/dp/B07DCV7BDD/ref=sr_1_1_sspa?keywords=24+gauge+wire&qid=1577768346&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzR1IxUzhXVlJRMFoxJmVuY3J5cHRlZElkPUEwMjE2ODM0MTRRSVkyQlBIRTZJSiZlbmNyeXB0ZWRBZElkPUEwNzE2MTQ1UURZTURJT0VDUEMzJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) 
 
 ## Recommended Tools:
@@ -50,6 +50,7 @@ MO | MOSI
 5 | RST
 6 | TFTCS
 9 | DC 
+
 ![Image](https://github.com/Breazile/MandoPuter/blob/master/Feather.jpg)
 
 ### Copy the files to the Feather
