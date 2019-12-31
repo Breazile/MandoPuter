@@ -59,7 +59,7 @@ Download and extract the [zip file](MandoPuter.zip) that contains the code, libr
 
 ![Image](Files.jpg)
 
-Make sure you let the copy finish before you remove the USB cable or reset the board, or your system could be corrupted. It could take up to 90 seconds or more on some systems. If that happens, please read the [troubleshooting page](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/creating-and-editing-code)
+Make sure you let the copy finish before you remove the USB cable or reset the board, or your system could be corrupted. It could take up to 90 seconds or more on some systems. If that happens, please read the [troubleshooting page](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/troubleshooting)
 
 You should be ready to go. The system should run once the copy is done, and you should see the font look like this:
 
