@@ -2,7 +2,7 @@
 
 A basic electronics system that will display Mandalorian characters on a small display. Use this as a starting point for adding displays to your costume (like a gauntlet). Feel free to copy the design, modify it, or make feature requests.
 
-### Parts list
+### Parts list:
 
 You will need the following parts:
 
@@ -21,6 +21,7 @@ You will need the following parts:
 5) [Wire Strippers](https://www.amazon.com/dp/B000XEUPMQ/ref=twister_B07JCDW6X6?_encoding=UTF8&psc=1)
 6) [Tweezers](https://www.amazon.com/gp/product/B01MA5CCDO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 7) [Isopropyl Alcohol](https://www.amazon.com/gp/product/B005DNQX3C/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) for cleaning solder flux
+8) A PC (Windows, Mac, or Linux) with a USB port
 
 ![Image](https://github.com/Breazile/MandoPuter/blob/master/MandoPuter.jpg)
 
