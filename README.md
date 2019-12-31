@@ -1,6 +1,6 @@
 # What is a MandoPuter?
 
-A basic electronics system that will display Mandalorian characters on a small display. Use this as a starting point for adding displays to your costume (like a gauntlet). Feel free to copy the design, modify it, or make feature requests. This is the way!
+A basic electronics system that will display Mandalorian characters on a small display (I'm paying homage to Lego Batman with the name). Use this as a starting point for adding displays to your costume (like a gauntlet). Feel free to copy the design, modify it, or make feature requests. This is the way!
 
 ## Parts list:
 
@@ -20,22 +20,22 @@ You will need the following parts:
 5) [Wire Strippers](https://www.amazon.com/dp/B000XEUPMQ/ref=twister_B07JCDW6X6?_encoding=UTF8&psc=1)
 6) [Tweezers](https://www.amazon.com/gp/product/B01MA5CCDO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 7) [Isopropyl Alcohol](https://www.amazon.com/gp/product/B005DNQX3C/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) for cleaning solder flux
-8) A computer (Windows, Mac, or Linux) with a USB port
+8) A computer with a USB port
 9) Micro USB [Cable](https://www.amazon.com/AmazonBasics-Male-Micro-Cable-Black/dp/B0711PVX6Z/ref=sxin_2_ac_d_rm?ac_md=0-0-bWljcm8gdXNiIGNhYmxl-ac_d_rm&keywords=micro+USB+cable&pd_rd_i=B0711PVX6Z&pd_rd_r=0c98cacf-0fa0-4c33-a20e-4d50696b8c55&pd_rd_w=EvHyD&pd_rd_wg=74RAP&pf_rd_p=e2f20af2-9651-42af-9a45-89425d5bae34&pf_rd_r=DBF2336PKCKSAH0KHNCG&psc=1&qid=1577768200)
 
 ## I have the parts, now what do I do?
 
-You'll follow 3 main steps to get things configured:
+You'll follow 3 main steps to get things setup:
 
-1) Setup the Feather M4 board with CircuitPython
+1) Setup the Feather M4 board with CircuitPython, and make sure it enumerates on your PC
 2) Solder the display to the board
 3) Copy the files
 
-That's it, no need to write any code or use any other fancy tools. I have the source code here, so you can install CircuitPython and modify the code to your needs. More on that in another guide.
+That's it, no need to write any code or use any other fancy tools. I have the source code here, so you can install CircuitPython and modify the code to suit your needs. More on that in another guide.
 
 ### Feather Setup
 
-Setup the Feather M4 first before you start soldering anything. Make sure the basics work just in case you damage the board during soldering. The primary guide to the Feather is [here](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51), but you can skip ahead to the [CircuitPython setup](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython). Plugging the Feather into USB will power the board, you don't need a battery yet. If you have the battery connected when powered via USB it will also charge the battery. Power management details are [here](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/power-management). When you plug the Feather into your computer, it should show up just like a USB key
+Setup the Feather M4 first before you start soldering anything. Make sure the basics work just in case you damage the board during soldering. The primary guide to the Feather is [here](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51), but you can skip ahead to the [CircuitPython setup](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython). Plugging the Feather into USB will power the board, you don't need a battery yet. If you have the battery connected when powered via USB it will charge. Power management details are [here](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/power-management). When you plug the Feather into your computer, it should show up just like a USB key and you copy file to it in the same way. No need to download anything.
 
 ### Solder the LCD
 
