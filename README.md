@@ -52,7 +52,7 @@ MO | MOSI
 9 | DC
 
 
-![Image](https://github.com/Breazile/MandoPuter/blob/master/Wiring.jpg)
+![Image](https://github.com/Breazile/MandoPuter/blob/master/Feather.jpg)
 
 ### Copy the files to the Feather
 
