@@ -51,9 +51,9 @@ MO | MOSI
 6 | TFTCS
 9 | DC 
 
-![Image]("Adafruit 1.14 Wiring.jpg")
+![Image](Adafruit 1-14 Wiring.jpg)
 
-Use [this]("Adafruit 1.44 Wiring.jpg") wiring diagram if you are using the Adafruit 1.44" LCD
+Use [this](Adafruit 1-44 Wiring.jpg) wiring diagram if you are using the Adafruit 1.44" LCD
 
 ### 3. Copy the files to the Feather
 
