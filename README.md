@@ -15,7 +15,7 @@ You will need the following parts:
 If you want to add a switch to the battery, get these 2 parts:
 
 1) Switch [breakout board](https://www.adafruit.com/product/1863)
-2) 2 pin [battery cable](https://www.adafruit.com/product/261)
+2) Two pin [battery pigtail](https://www.adafruit.com/product/261)
 
 Solder the pigtail cable cable to the board (black to one of the GND holes, red to the SW hole). Do not connect red to the + hole, that is not switched. Plug the battery into the breakout board, and the pigtail into the Feather M4.
 
