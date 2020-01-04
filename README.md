@@ -62,7 +62,7 @@ MO | MOSI | MO
 5 | RST or RESET | 4
 6 | TFTCS or TFT_CS | 2
 9 | DC or D/C | 3
- | || Batt - Battery+
+n/a | n/a | Batt - Battery+
 
 ![Image](Adafruit_1-14_Wiring.jpg)
 ![Image](ItsyBitsyWiring.jpg)
