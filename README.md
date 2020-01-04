@@ -59,9 +59,9 @@ Feather Pin | LCD Pin | ItsyBitsy
 GND | GND | G
 CLK | SCK | SCK
 MO | MOSI | MO
-5 | RST / RESET | 4
-6 | TFTCS / TFT_CS | 2
-9 | DC | 3
+5 | RST or RESET | 4
+6 | TFTCS or TFT_CS | 2
+9 | DC or D/C | 3
 
 ![Image](Adafruit_1-14_Wiring.jpg)
 
