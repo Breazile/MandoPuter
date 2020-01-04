@@ -6,7 +6,15 @@ A basic electronics system that will display Mandalorian characters on a small d
 
 You will need the following parts:
 
-1) One supported display [0.96" LCD](https://www.adafruit.com/product/684),  [1.14" LCD](https://www.adafruit.com/product/4383),  [1.27" OLED](https://www.adafruit.com/product/1673),  [1.3" LCD](https://www.adafruit.com/product/4313),  [1.44" LCD](https://www.adafruit.com/product/2088),  [1.5" OLED](https://www.adafruit.com/product/1431),  [1.54" LCD](https://www.adafruit.com/product/3787),  [1.8" LCD](https://www.adafruit.com/product/358)
+1) One supported display:
+- [0.96" LCD](https://www.adafruit.com/product/684)
+- [1.14" LCD](https://www.adafruit.com/product/4383)
+- [1.27" OLED](https://www.adafruit.com/product/1673)
+- [1.30" LCD](https://www.adafruit.com/product/4313)
+- [1.44" LCD](https://www.adafruit.com/product/2088)
+- [1.50" OLED](https://www.adafruit.com/product/1431)
+- [1.54" LCD](https://www.adafruit.com/product/3787)
+- [1.80" LCD](https://www.adafruit.com/product/358)
 2) [Feather M4 Express Board](https://www.adafruit.com/product/3857) (support for an [ItsyBitsy M4 Express](https://www.adafruit.com/product/3800) is in the code, but not yet tested)
 3) 4.2/3.7V [Battery](https://www.adafruit.com/category/917) (my 500 mAh battery in the picture below ran for over 12 hours)
 4) Small Gauge (22-30) [Wire](https://www.amazon.com/Stranded-Nano-Flexible-Insulated-Electrical/dp/B07DCV7BDD/ref=sr_1_1_sspa?keywords=24+gauge+wire&qid=1577768346&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzR1IxUzhXVlJRMFoxJmVuY3J5cHRlZElkPUEwMjE2ODM0MTRRSVkyQlBIRTZJSiZlbmNyeXB0ZWRBZElkPUEwNzE2MTQ1UURZTURJT0VDUEMzJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) 
