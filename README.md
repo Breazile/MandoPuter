@@ -62,10 +62,10 @@ MO | MOSI | MO
 5 | RST or RESET | 4
 6 | TFTCS or TFT_CS | 2
 9 | DC or D/C | 3
- | | Batt - Battery+
+ | || Batt - Battery+
 
 ![Image](Adafruit_1-14_Wiring.jpg)
-
+![Image](ItsyBitsyWiring.jpg)
 
 Use [this](Adafruit_1-44_Wiring.jpg) wiring diagram if you are using the [Adafruit 1.44" LCD](https://www.adafruit.com/product/2088)
 
