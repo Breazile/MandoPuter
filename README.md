@@ -96,6 +96,7 @@ You'll need to make selections for:
 - Text color - red or white
 - Display type
 - Text orientation
+- Font size
 - What characters you want to display, and the delay between them
 
 More details on each item coming soon. For now, take a read through code.py.
