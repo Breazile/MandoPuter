@@ -56,12 +56,13 @@ Solder the LCD to the Feather M4 (or ItsyBitsy), so they can talk to each other.
 Feather Pin | LCD Pin | ItsyBitsy Pin
 ------------ | ------------- | ------------
 3V | Vin (do not use 3V) | 3V
-GND | GND | G
+GND | GND | G (also Battery-)
 CLK | SCK | SCK
 MO | MOSI | MO
 5 | RST or RESET | 4
 6 | TFTCS or TFT_CS | 2
 9 | DC or D/C | 3
+ | | Batt - Battery+
 
 ![Image](Adafruit_1-14_Wiring.jpg)
 ![Image](ItsyBitsyWiring.jpg)
