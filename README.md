@@ -6,18 +6,18 @@ A basic electronics system that will display Mandalorian characters on a small d
 
 You will need the following parts:
 
-1) Small LCD [Display](https://www.adafruit.com/product/4383)
-2) [Microcontroller Board](https://www.adafruit.com/product/3857)
+1) One supported display [0.96" LCD](https://www.adafruit.com/product/684),  [1.14" LCD](https://www.adafruit.com/product/4383),  [1.27" OLED](https://www.adafruit.com/product/1673),  [1.3" LCD](https://www.adafruit.com/product/4313),  [1.44" LCD](https://www.adafruit.com/product/2088),  [1.5" OLED](https://www.adafruit.com/product/1431),  [1.54" LCD](https://www.adafruit.com/product/3787),  [1.8" LCD](https://www.adafruit.com/product/358)
+2) [Feather M4 Express Board](https://www.adafruit.com/product/3857) (support for an [ItsyBitsy M4 Express](https://www.adafruit.com/product/3800) is in the code, but not yet tested)
 3) 4.2/3.7V [Battery](https://www.adafruit.com/category/917) (my 500 mAh battery in the picture below ran for over 12 hours)
 4) Small Gauge (22-30) [Wire](https://www.amazon.com/Stranded-Nano-Flexible-Insulated-Electrical/dp/B07DCV7BDD/ref=sr_1_1_sspa?keywords=24+gauge+wire&qid=1577768346&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzR1IxUzhXVlJRMFoxJmVuY3J5cHRlZElkPUEwMjE2ODM0MTRRSVkyQlBIRTZJSiZlbmNyeXB0ZWRBZElkPUEwNzE2MTQ1UURZTURJT0VDUEMzJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) 
 5) Velcro for the battery
 
-If you want to add a switch to the battery, get these 2 parts:
+If you have an ItsyBitsy, or want to add a switch to the battery, get these 2 parts:
 
 1) Switch [breakout board](https://www.adafruit.com/product/1863)
 2) Two pin [battery pigtail](https://www.adafruit.com/product/261)
 
-Solder the pigtail cable cable to the board (black to one of the GND holes, red to the SW hole). Do not connect red to the + hole, that is not switched. Plug the battery into the breakout board, and the pigtail into the Feather M4.
+Solder the pigtail cable cable to the board (black to one of the GND holes, red to the SW hole). Do not connect red to the + hole, that is not switched. Plug the battery into the breakout board, and the pigtail into the Feather M4. If you are using an ItsyBitsy solder the wires to the BAT and G pins on the board. Red goes to BAT, black goes to G.
 
 ## Recommended Tools:
 
@@ -51,9 +51,9 @@ Use CircuitPython V4, which you can get from [here](https://circuitpython.org/bo
 
 ### 2. Solder the LCD
 
-Solder the LCD to the Feather M4, so they can talk to each other. Adafruit has a great [soldering guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering) if you are new to soldering. The only thing they did not mention is adding flux to the solder joint first. That makes it much easier to make a good solder joint, and you only need to touch the parts for a second or two.
+Solder the LCD to the Feather M4 (or ItsyBitsy), so they can talk to each other. Adafruit has a great [soldering guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering) if you are new to soldering. The only thing they did not mention is adding flux to the solder joint first. That makes it much easier to make a good solder joint, and you only need to touch the parts for a second or two.
 
-Feather Pin | LCD Pin | ItsyBitsy
+Feather Pin | LCD Pin | ItsyBitsy Pin
 ------------ | ------------- | ------------
 3V | Vin (do not use 3V) | 3V
 GND | GND | G
