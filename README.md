@@ -53,15 +53,15 @@ Use CircuitPython V4, which you can get from [here](https://circuitpython.org/bo
 
 Solder the LCD to the Feather M4, so they can talk to each other. Adafruit has a great [soldering guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering) if you are new to soldering. The only thing they did not mention is adding flux to the solder joint first. That makes it much easier to make a good solder joint, and you only need to touch the parts for a second or two.
 
-Feather Pin | LCD Pin
+Feather Pin | LCD Pin | ItsyBitsy
 ------------ | -------------
-3V | Vin
-GND | GND
-CLK | SCK
-MO | MOSI
-5 | RST
-6 | TFTCS
-9 | DC 
+3V | Vin (do not use 3V) | 3V
+GND | GND | G
+CLK | SCK | SCK
+MO | MOSI | MO
+5 | RST | 4
+6 | TFTCS | 2
+9 | DC | 3
 
 ![Image](Adafruit_1-14_Wiring.jpg)
 
