@@ -43,16 +43,16 @@ Solder the pigtail cable cable to the board (black to one of the GND holes, red 
 
 You'll follow 3 main steps to get things setup:
 
-1) Setup the Feather M4 board (or ItsyBitsy) with CircuitPython, and make sure it enumerates on your PC
-2) Solder the display to the board
-3) Copy the files
+1) Setup the Feather M4 board (or ItsyBitsy)
+2) Solder the LCD
+3) Copy the files to the Feather
+4) Make selections in the code to match your setup
 
 That's it, no need to write any code or use any other fancy tools. I have the source code here, so you can install CircuitPython and modify the code to suit your needs. More on that in another guide.
 
-### 1. Feather Setup
+### 1. Feather / ItsyBitsy Setup
 
 - Install CircuitPython V4, which you can get from [here](https://circuitpython.org/board/feather_m4_express/) and there is a handy guide on [installing CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython)
-- Download [MandoPuter.zip](MandoPuter.zip), and extract everything to the CIRCUITPY drive.
 
 Setup the Feather M4 first before you start soldering anything. Make sure the basics work just in case you damage the board during soldering. The primary guide to the Feather is [here](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51), but you can skip ahead to the [CircuitPython setup](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython). Plugging the Feather into USB will power the board, you don't need a battery yet. If you have the battery connected when powered via USB it will charge. Power management details are [here](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/power-management). Do not use alkaline or NiMH batteries and connect to the battery port - this will destroy the LiPoly charger and there's no way to disable the charger. Do not use 7.4V RC batteries on the battery port - this will destroy the board.
 
@@ -86,6 +86,24 @@ Download and extract the [zip file](MandoPuter.zip) that contains the code, libr
 
 Make sure you let the copy finish before you remove the USB cable or reset the board, or your system could be corrupted. It could take up to 90 seconds or more on some systems. If that happens, please read the [troubleshooting page](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/troubleshooting)
 
-You should be ready to go. The system should run once the copy is done, and you should see the font look like this:
+### 4. Make selections in the code to match your setup
+
+The file called code.py on your CIRCUITPY drive is the main program. You can edit it with just a text editor, or you can download a nice program called Mu that makes it easy for you. You can find information about Mu [here](https://learn.adafruit.com/welcome-to-circuitpython/installing-mu-editor). You'll be commenting some lines out, and uncommenting others. A comment is a line that starts with a # character.
+
+You'll need to make selections for:
+
+- Board type (Feather or ItsyBitsy)
+- Text color - red or white
+- Display type
+- Text orientation
+- What characters you want to display, and the delay between them
+
+More details on each item coming soon. For now, take a read through code.py.
+
+## Want to know more?
+
+Check out this [getting started guide](https://learn.adafruit.com/welcome-to-circuitpython/overview) on CircuitPython. There's also a [CircuitPython essentials guide](https://learn.adafruit.com/circuitpython-essentials/circuitpython-essentials) that good to read through.
+
+You should be ready to go. The system should run once the file is saved, and you should see the font look like this:
 
 ![Image](MandoPuter.jpg)
