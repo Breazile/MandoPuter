@@ -35,7 +35,7 @@ Solder the pigtail cable cable to the board (black to one of the GND holes, red 
 
 You'll follow 3 main steps to get things setup:
 
-1) Setup the Feather M4 board with CircuitPython, and make sure it enumerates on your PC
+1) Setup the Feather M4 board (or ItsyBitsy) with CircuitPython, and make sure it enumerates on your PC
 2) Solder the display to the board
 3) Copy the files
 
@@ -43,11 +43,12 @@ That's it, no need to write any code or use any other fancy tools. I have the so
 
 ### 1. Feather Setup
 
+- Install CircuitPython V4, which you can get from [here](https://circuitpython.org/board/feather_m4_express/) and there is a handy guide on [installing CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython)
+- Download [MandoPuter.zip](MandoPuter.zip), and extract everything to the CIRCUITPY drive.
+
 Setup the Feather M4 first before you start soldering anything. Make sure the basics work just in case you damage the board during soldering. The primary guide to the Feather is [here](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51), but you can skip ahead to the [CircuitPython setup](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython). Plugging the Feather into USB will power the board, you don't need a battery yet. If you have the battery connected when powered via USB it will charge. Power management details are [here](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/power-management). Do not use alkaline or NiMH batteries and connect to the battery port - this will destroy the LiPoly charger and there's no way to disable the charger. Do not use 7.4V RC batteries on the battery port - this will destroy the board.
 
 When you plug the Feather into your computer, it should show up just like a USB key and you copy file to it in the same way. No need to download anything, drag and drop.
-
-Use CircuitPython V4, which you can get from [here](https://circuitpython.org/board/feather_m4_express/) and there is a handy guide on [installing CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython)
 
 ### 2. Solder the LCD
 
