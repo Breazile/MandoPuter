@@ -20,10 +20,11 @@ You will need the following parts:
 4) Small Gauge (22-30) [Wire](https://www.amazon.com/Stranded-Nano-Flexible-Insulated-Electrical/dp/B07DCV7BDD/ref=sr_1_1_sspa?keywords=24+gauge+wire&qid=1577768346&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzR1IxUzhXVlJRMFoxJmVuY3J5cHRlZElkPUEwMjE2ODM0MTRRSVkyQlBIRTZJSiZlbmNyeXB0ZWRBZElkPUEwNzE2MTQ1UURZTURJT0VDUEMzJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) 
 5) Velcro for the battery
 
-If you have an ItsyBitsy, or want to add a switch to the battery, get these 2 parts:
+If you have an ItsyBitsy, or want to add a switch to the battery, Look at these parts:
 
 1) Switch [breakout board](https://www.adafruit.com/product/1863)
 2) Two pin [battery pigtail](https://www.adafruit.com/product/261)
+3) [Backpack](https://www.adafruit.com/product/2124) for adding a battery (if you don't want to solder one)
 
 Solder the pigtail cable cable to the board (black to one of the GND holes, red to the SW hole). Do not connect red to the + hole, that is not switched. Plug the battery into the breakout board, and the pigtail into the Feather M4. If you are using an ItsyBitsy solder the wires to the BAT and G pins on the board. Red goes to BAT, black goes to G.
 
