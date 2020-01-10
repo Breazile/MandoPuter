@@ -24,7 +24,7 @@ If you have an ItsyBitsy, or want to add a switch to the battery, Look at these 
 
 1) Switch [breakout board](https://www.adafruit.com/product/1863)
 2) Two pin [battery pigtail](https://www.adafruit.com/product/261)
-3) [Backpack](https://www.adafruit.com/product/2124) for adding a battery (if you don't want to solder one)
+3) ItsyBitsy [Backpack](https://www.adafruit.com/product/2124) for adding a battery (if you don't want to solder one)
 
 Solder the pigtail cable cable to the board (black to one of the GND holes, red to the SW hole). Do not connect red to the + hole, that is not switched. Plug the battery into the breakout board, and the pigtail into the Feather M4. If you are using an ItsyBitsy solder the wires to the BAT and G pins on the board. Red goes to BAT, black goes to G.
 
