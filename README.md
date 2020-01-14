@@ -15,6 +15,7 @@ You will need the following parts:
 - [1.50" OLED](https://www.adafruit.com/product/1431)
 - [1.54" LCD](https://www.adafruit.com/product/3787)
 - [1.80" LCD](https://www.adafruit.com/product/358)
+- [1.3" Monochrome OLED](https://www.adafruit.com/product/938) (SPI mode not I2C)
 2) [Feather M4 Express Board](https://www.adafruit.com/product/3857) (support for an [ItsyBitsy M4 Express](https://www.adafruit.com/product/3800) is in the code, but not yet tested)
 3) 4.2/3.7V [Battery](https://www.adafruit.com/category/917) (my 500 mAh battery in the picture below ran for over 12 hours)
 4) Small Gauge (22-30) [Wire](https://www.amazon.com/Stranded-Nano-Flexible-Insulated-Electrical/dp/B07DCV7BDD/ref=sr_1_1_sspa?keywords=24+gauge+wire&qid=1577768346&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzR1IxUzhXVlJRMFoxJmVuY3J5cHRlZElkPUEwMjE2ODM0MTRRSVkyQlBIRTZJSiZlbmNyeXB0ZWRBZElkPUEwNzE2MTQ1UURZTURJT0VDUEMzJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) 
@@ -77,6 +78,8 @@ MO | MOSI | MO
 6 | TFTCS or TFT_CS | 2
 9 | DC or D/C | 3
 n/a | n/a | Batt - Battery+
+
+* The [1.3" monochrome OLED](https://www.adafruit.com/product/938) is only supported in SPI mode, please read the paragraph **Using with SPI** on [this page](https://learn.adafruit.com/monochrome-oled-breakouts/wiring-128x64-oleds). You will need to cut J1 and J2 if you are using the newer version of the display.
 
 ![Image](Adafruit_1-14_Wiring.jpg)
 ![Image](ItsyBitsyWiring.jpg)
