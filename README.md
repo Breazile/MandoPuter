@@ -31,6 +31,7 @@ Solder the pigtail cable cable to the board (black to one of the GND holes, red 
 
 Size and resoluion of the displays. The grid is 1/2" or 12.7mm
 
+![Image](Microcontrollers.jpg)
 ![Image](LCDs.jpg)
 
 ## Recommended Tools:
