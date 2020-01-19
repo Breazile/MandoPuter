@@ -29,7 +29,7 @@ If you have an ItsyBitsy, or want to add a switch to the battery, Look at these 
 
 Solder the pigtail cable cable to the board (black to one of the GND holes, red to the SW hole). Do not connect red to the + hole, that is not switched. Plug the battery into the breakout board, and the pigtail into the Feather M4. If you are using an ItsyBitsy solder the wires to the BAT and G pins on the board. Red goes to BAT, black goes to G.
 
-Size and resoluion of the displays. The grid is 1/2" or 12.7mm
+Microcontrollers, and size and resoluion of the displays. The grid is 1/2" or 12.7mm
 
 ![Image](Microcontrollers.jpg)
 ![Image](LCDs.jpg)
