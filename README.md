@@ -7,11 +7,11 @@ A basic electronics system that will display Mandalorian characters on a small d
 You will need the following parts:
 
 1) One supported display:
-- [0.96" LCD](https://www.adafruit.com/product/684)
-- [1.14" LCD](https://www.adafruit.com/product/4383)  <--- Preferred display
+- [0.96" LCD](https://www.adafruit.com/product/684)  (tested, working)
+- [1.14" LCD](https://www.adafruit.com/product/4383)  <--- Preferred display (tested, working)
 - [1.27" OLED](https://www.adafruit.com/product/1673)
-- [1.30" LCD](https://www.adafruit.com/product/4313)
-- [1.44" LCD](https://www.adafruit.com/product/2088)
+- [1.30" LCD](https://www.adafruit.com/product/4313)  (tested, working)
+- [1.44" LCD](https://www.adafruit.com/product/2088)  (tested, working)
 - [1.50" OLED](https://www.adafruit.com/product/1431)
 - [1.54" LCD](https://www.adafruit.com/product/3787)
 - [1.80" LCD](https://www.adafruit.com/product/358)
