@@ -8,7 +8,7 @@ You will need the following parts:
 
 1) One supported display:
 - [0.96" LCD](https://www.adafruit.com/product/684)
-- [1.14" LCD](https://www.adafruit.com/product/4383)
+- [1.14" LCD](https://www.adafruit.com/product/4383)  <--- Preferred display
 - [1.27" OLED](https://www.adafruit.com/product/1673)
 - [1.30" LCD](https://www.adafruit.com/product/4313)
 - [1.44" LCD](https://www.adafruit.com/product/2088)
