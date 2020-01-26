@@ -82,6 +82,8 @@ n/a | n/a | Batt - Battery+
 
 * The [1.3" monochrome OLED](https://www.adafruit.com/product/938) is only supported in SPI mode, please read the paragraph **Using with SPI** on [this page](https://learn.adafruit.com/monochrome-oled-breakouts/wiring-128x64-oleds). You will need to cut J1 and J2 if you are using the newer version of the display.
 
+* For the 1.8" LCD you need to jumper the LITE pin to the VCC pin on the display, otherwise the screen will be black.
+
 ![Image](Adafruit_1-14_Wiring.jpg)
 ![Image](ItsyBitsyWiring.jpg)
 
