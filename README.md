@@ -7,15 +7,17 @@ A basic electronics system that will display Mandalorian characters on a small d
 You will need the following parts:
 
 1) One supported display:
-- [0.96" LCD](https://www.adafruit.com/product/684)  (tested, working)
-- [1.14" LCD](https://www.adafruit.com/product/4383)  <--- Preferred display (tested, working)
-- [1.27" OLED](https://www.adafruit.com/product/1673) (not tested)
-- [1.30" LCD](https://www.adafruit.com/product/4313)  (tested, working)
-- [1.44" LCD](https://www.adafruit.com/product/2088)  (tested, working)
-- [1.50" OLED](https://www.adafruit.com/product/1431) (not tested)
-- [1.54" LCD](https://www.adafruit.com/product/3787) (not tested)
-- [1.80" LCD](https://www.adafruit.com/product/358) (not tested)
-- [1.3" Monochrome OLED](https://www.adafruit.com/product/938) (SPI mode not I2C)  (not tested)
+- [0.96" LCD](https://www.adafruit.com/product/3533)  
+- [0.96" OLED](https://www.adafruit.com/product/684)  
+- [1.14" LCD](https://www.adafruit.com/product/4383)  <--- Preferred display
+- [1.27" OLED](https://www.adafruit.com/product/1673) 
+- [1.30" LCD](https://www.adafruit.com/product/4313) 
+- [1.44" LCD](https://www.adafruit.com/product/2088)  
+- [1.54" LCD](https://www.adafruit.com/product/3787)
+- [1.80" LCD](https://www.adafruit.com/product/358)
+- [1.3" Monochrome OLED](https://www.adafruit.com/product/938) (SPI mode not I2C) <--- not yet tested
+- [1.50" OLED](https://www.adafruit.com/product/1431) <--- not yet tested
+
 2) [Feather M4 Express Board](https://www.adafruit.com/product/3857) or [ItsyBitsy M4 Express](https://www.adafruit.com/product/3800) (ItsyBitsy is cheaper and smaller, Feather gives you a battery connector, and battery level monitoring)
 3) 4.2/3.7V [Battery](https://www.adafruit.com/category/917) (my 500 mAh battery in the picture below ran for over 12 hours)
 4) Small Gauge (22-30) [Wire](https://www.amazon.com/Stranded-Nano-Flexible-Insulated-Electrical/dp/B07DCV7BDD/ref=sr_1_1_sspa?keywords=24+gauge+wire&qid=1577768346&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzR1IxUzhXVlJRMFoxJmVuY3J5cHRlZElkPUEwMjE2ODM0MTRRSVkyQlBIRTZJSiZlbmNyeXB0ZWRBZElkPUEwNzE2MTQ1UURZTURJT0VDUEMzJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) 
