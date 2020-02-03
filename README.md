@@ -1,3 +1,4 @@
+![Image](MandoChannel.jpg)
 # What is a MandoPuter?
 
 A basic electronics system that will display Mandalorian characters on a small display (I'm paying homage to Lego Batman with the name "Puter"). Use this as a starting point for adding displays to your costume (like a gauntlet). Feel free to copy the design, modify it, or make feature requests. This is the way! Software setup overview video is [here](https://www.youtube.com/watch?v=ql2s0-QgcFI).
