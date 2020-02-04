@@ -10,14 +10,15 @@ You will need the following parts:
 1) One supported display:
 - [0.96" LCD](https://www.adafruit.com/product/3533)  
 - [0.96" OLED](https://www.adafruit.com/product/684)  
+- [0.96" Monochrome OLED](https://www.adafruit.com/product/326) (SPI mode not I2C, requires CircuitPython 5)
 - [1.14" LCD](https://www.adafruit.com/product/4383)  <--- Preferred display
 - [1.27" OLED](https://www.adafruit.com/product/1673) 
 - [1.30" LCD](https://www.adafruit.com/product/4313) 
-- [1.44" LCD](https://www.adafruit.com/product/2088)  
+- [1.44" LCD](https://www.adafruit.com/product/2088) 
+- [1.50" OLED](https://www.adafruit.com/product/1431)
 - [1.54" LCD](https://www.adafruit.com/product/3787)
 - [1.80" LCD](https://www.adafruit.com/product/358)
-- [1.3" Monochrome OLED](https://www.adafruit.com/product/938) (SPI mode not I2C) <--- not yet tested
-- [1.50" OLED](https://www.adafruit.com/product/1431) <--- not yet tested
+- [1.3" Monochrome OLED](https://www.adafruit.com/product/938) (SPI mode not I2C, requires CircuitPython 5) <--- not yet tested
 
 2) [Feather M4 Express Board](https://www.adafruit.com/product/3857) or [ItsyBitsy M4 Express](https://www.adafruit.com/product/3800) (ItsyBitsy is cheaper and smaller, Feather gives you a battery connector, and battery level monitoring)
 3) 4.2/3.7V [Battery](https://www.adafruit.com/category/917) (my 500 mAh battery in the picture below ran for over 12 hours)
