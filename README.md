@@ -121,6 +121,10 @@ More details on each item coming soon. For now, take a read through code.py.
 
 Check out this [getting started guide](https://learn.adafruit.com/welcome-to-circuitpython/overview) on CircuitPython. There's also a [CircuitPython essentials guide](https://learn.adafruit.com/circuitpython-essentials/circuitpython-essentials) that good to read through.
 
+- [CircuitPython Downloads](https://circuitpython.org/downloads)
+- [Adafruit CircuitPython Library Bundle](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/tree/master/libraries)
+- [CircuitPython GitHub](https://github.com/adafruit/circuitpython)
+
 You should be ready to go. The system should run once the file is saved, and you should see the font look like this:
 
 ![Image](MandoPuter.jpg)
