@@ -124,6 +124,7 @@ Check out this [getting started guide](https://learn.adafruit.com/welcome-to-cir
 - [CircuitPython Downloads](https://circuitpython.org/downloads)
 - [Adafruit CircuitPython Library Bundle](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/tree/master/libraries)
 - [CircuitPython GitHub](https://github.com/adafruit/circuitpython)
+- [CircuitPython internal libraries](https://github.com/adafruit/circuitpython/tree/master/shared-bindings)
 
 You should be ready to go. The system should run once the file is saved, and you should see the font look like this:
 
