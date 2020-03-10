@@ -11,9 +11,9 @@ You will need the following parts:
 - [0.96" LCD](https://www.adafruit.com/product/3533)  
 - [0.96" OLED](https://www.adafruit.com/product/684)  
 - [0.96" Monochrome OLED](https://www.adafruit.com/product/326) *([SPI mode not I2C](https://learn.adafruit.com/monochrome-oled-breakouts/wiring-128x64-oleds), requires CircuitPython 5)*
-- [1.14" LCD](https://www.adafruit.com/product/4383)  **<--- preferred display for [this](https://www.etsy.com/listing/751008521/the-mandalorian-bracers?ref=shop_home_feat_1) gauntleet**
+- [1.14" LCD](https://www.adafruit.com/product/4383)  **<--- preferred display for the [pre-Beskar](https://www.etsy.com/listing/751008521/the-mandalorian-bracers?ref=shop_home_active_7&crt=1) gauntlet**
 - [1.27" OLED](https://www.adafruit.com/product/1673) 
-- [1.30" LCD](https://www.adafruit.com/product/4313) 
+- [1.30" LCD](https://www.adafruit.com/product/4313)  **<--- preferred display for the [Beskar](https://www.etsy.com/listing/765735752/the-mandalorian-beskar-bracers?ref=shop_home_active_8&crt=1) gauntlet**
 - [1.3" Monochrome OLED](https://www.adafruit.com/product/938) *([SPI mode not I2C](https://learn.adafruit.com/monochrome-oled-breakouts/wiring-128x64-oleds), requires CircuitPython 5)*
 - [1.44" LCD](https://www.adafruit.com/product/2088) 
 - [1.50" OLED](https://www.adafruit.com/product/1431)
