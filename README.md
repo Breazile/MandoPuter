@@ -3,6 +3,10 @@
 
 A basic electronics system that will display Mandalorian characters on a small display (I'm paying homage to Lego Batman with the name "Puter"). Use this as a starting point for adding displays to your costume (like a gauntlet). Feel free to copy the design, modify it, or make feature requests. This is the way! Software setup overview video is [here](https://www.youtube.com/watch?v=ql2s0-QgcFI).
 
+What is the difference between the original MandoPuter and a Mandoputer Pi?
+* The original [MandoPuter](https://github.com/Breazile/MandoPuter) has a longer battery life, but is best suited for text and one image
+* The [MandoPuter Pi](https://github.com/Breazile/MandoPuterPi) has lot more memory and cam display multiple images inclugind animated GIFs at the cost of lower battery life
+
 ## Parts list:
 
 You will need the following parts:
