@@ -5,7 +5,7 @@ A basic electronics system that will display Mandalorian characters on a small d
 
 What is the difference between the original MandoPuter and a Mandoputer Pi?
 * The original [MandoPuter](https://github.com/Breazile/MandoPuter) has a longer battery life, but is best suited for text and one image
-* The [MandoPuter Pi](https://github.com/Breazile/MandoPuterPi) has lot more memory and cam display multiple images including animated GIFs at the cost of lower battery life
+* The [MandoPuter Pi](https://github.com/Breazile/MandoPuterPi) has lot more memory and can display multiple images including animated GIFs at the cost of lower battery life
 
 ## Parts list:
 
