@@ -127,6 +127,8 @@ The font used on the show is different from the font in the original Star Wars m
 
 Adafruit has a guide on how to convert TTF or OTF fonts to BDF (bitmap) fonts that MandoPuter uses. [Custom Fonts for CircuitPython Displays](https://learn.adafruit.com/custom-fonts-for-pyportal-circuitpython-display/conversion)
 
+Maybe we will find hidden meaning in the sequence. Mandalorian language reference here : https://www.mandoa.org/
+
 ## Want to know more?
 
 Check out this [getting started guide](https://learn.adafruit.com/welcome-to-circuitpython/overview) on CircuitPython. There's also a [CircuitPython essentials guide](https://learn.adafruit.com/circuitpython-essentials/circuitpython-essentials) that good to read through.
