@@ -125,6 +125,8 @@ More details on each item coming soon. For now, take a read through code.py.
 
 The font used on the show is different from the font in the original Star Wars movies. The best match for the font is the [Mando AF](https://aurekfonts.github.io/?font=MandoAF) font. The L character is not correct (should look like the inverted V character), and the J and X characters are duplicates of characters before them. I have modified this font and fixed the L character - [MandoPuter.otf](https://github.com/Breazile/MandoPuter/blob/master/MandoPuter.otf). Bitmap fonts in the ZIP file are now correct as of 10/26/2020.
 
+Adafruit has a guide on how to convert TTF or OTF fonts to BDF (bitmap) fonts that MandoPuter uses. [Custom Fonts for CircuitPython Displays](https://learn.adafruit.com/custom-fonts-for-pyportal-circuitpython-display/conversion)
+
 ## Want to know more?
 
 Check out this [getting started guide](https://learn.adafruit.com/welcome-to-circuitpython/overview) on CircuitPython. There's also a [CircuitPython essentials guide](https://learn.adafruit.com/circuitpython-essentials/circuitpython-essentials) that good to read through.
