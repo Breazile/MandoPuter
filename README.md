@@ -28,6 +28,7 @@ You will need the following parts:
 3) 4.2/3.7V [Battery](https://www.adafruit.com/category/917) (my 500 mAh battery in the picture below ran for over 12 hours)
 4) Small Gauge (22-30) [Wire](https://www.amazon.com/Stranded-Nano-Flexible-Insulated-Electrical/dp/B07DCV7BDD/ref=sr_1_1_sspa?keywords=24+gauge+wire&qid=1577768346&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzR1IxUzhXVlJRMFoxJmVuY3J5cHRlZElkPUEwMjE2ODM0MTRRSVkyQlBIRTZJSiZlbmNyeXB0ZWRBZElkPUEwNzE2MTQ1UURZTURJT0VDUEMzJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) 
 5) Velcro for the battery
+6) [Switch](https://www.adafruit.com/product/3064) for a battery. Also available at [Mouser](https://www.mouser.com/ProductDetail/Adafruit/3064?qs=%2Fha2pyFaduidPXPXSuFTAy6NIltFKQj2aLtKxFq%252BSwSQ4g6E%2F8SgsA%3D%3D&fbclid=IwAR3gUkhB0XSWHV8Blz79Bzu3XQIYsgX0tw-0LRotc9LCteHGUVw9kJngqcI) (thanks Aldo Andrei for the find)
 
 If you have an ItsyBitsy, or want to add a switch to the battery, Look at these parts:
 
