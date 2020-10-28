@@ -48,44 +48,44 @@ The [challenge coin](https://www.bobafettfanclub.com/multimedia/daily/1866/) was
 
 The MandoPuter column shows the gliphs that I am using in the MandoPuter distribution and is the most accurate font that I am aware of.
 
-ABC | Coin | MandoPuter | 2004 | Notes
-:---: | :----: | :---: | :---: | :-----
-A | <img src="Glyphs/CC-A.png" height="50px" align="center"/> | <img src="Glyphs/N-A.png" height="50px" align="center"/> | <img src="Glyphs/O-A.png" height="50px" align="center"/> |
-B | | <img src="Glyphs/N-B.png" height="50px" align="center"/> | <img src="Glyphs/O-B.png" height="50px" align="center"/> | |
-C | | <img src="Glyphs/N-C.png" height="50px" align="center"/> | <img src="Glyphs/O-C.png" height="50px" align="center"/> | |
-D | <img src="Glyphs/CC-D.png" height="50px" align="center"/> | <img src="Glyphs/N-D.png" height="50px" align="center"/> | <img src="Glyphs/O-D.png" height="50px" align="center"/> |
-E | <img src="Glyphs/CC-E.png" height="50px" align="center"/> | <img src="Glyphs/N-E.png" height="50px" align="center"/> | <img src="Glyphs/O-E.png" height="50px" align="center"/> |
-F | | <img src="Glyphs/N-F.png" height="50px" align="center"/> | <img src="Glyphs/O-F.png" height="50px" align="center"/> | |
-G | | <img src="Glyphs/N-G.png" height="50px" align="center"/> | <img src="Glyphs/O-G.png" height="50px" align="center"/> | |
-H | <img src="Glyphs/CC-H.png" height="50px" align="center"/> | <img src="Glyphs/N-H.png" height="50px" align="center"/> | <img src="Glyphs/O-H.png" height="50px" align="center"/> |
-I | <img src="Glyphs/CC-I.png" height="50px" align="center"/> | <img src="Glyphs/N-I.png" height="50px" align="center"/> | <img src="Glyphs/O-I.png" height="50px" align="center"/> |
-J | | <img src="Glyphs/N-J.png" height="50px" align="center"/> | <img src="Glyphs/O-J.png" height="50px" align="center"/> | My best guess based on the 2004 font. MandoAF and Mando Alban's Bane BETA uses a duplication of the I glyph
-K | | <img src="Glyphs/N-K.png" height="50px" align="center"/> | <img src="Glyphs/O-K.png" height="50px" align="center"/> | |
-L | <img src="Glyphs/CC-L.png" height="50px" align="center"/> | <img src="Glyphs/N-L.png" height="50px" align="center"/> | <img src="Glyphs/O-L.png" height="50px" align="center"/> | Glyph does not match the challenge coin in MandoAF and Mando Alban's Bane BETA
-M | <img src="Glyphs/CC-M.png" height="50px" align="center"/> | <img src="Glyphs/N-M.png" height="50px" align="center"/> | <img src="Glyphs/O-M.png" height="50px" align="center"/> |
-N | <img src="Glyphs/CC-N.png" height="50px" align="center"/> | <img src="Glyphs/N-N.png" height="50px" align="center"/> | <img src="Glyphs/O-N.png" height="50px" align="center"/> |
-O | <img src="Glyphs/CC-O.png" height="50px" align="center"/> | <img src="Glyphs/N-O.png" height="50px" align="center"/> | <img src="Glyphs/O-O.png" height="50px" align="center"/> |
-P | | <img src="Glyphs/N-P.png" height="50px" align="center"/> | <img src="Glyphs/O-P.png" height="50px" align="center"/> | |
-Q | | <img src="Glyphs/N-Q.png" height="50px" align="center"/> | <img src="Glyphs/O-Q.png" height="50px" align="center"/> | |
-R | <img src="Glyphs/CC-R.png" height="50px" align="center"/> | <img src="Glyphs/N-R.png" height="50px" align="center"/> | <img src="Glyphs/O-R.png" height="50px" align="center"/> |
-S | <img src="Glyphs/CC-S.png" height="50px" align="center"/> | <img src="Glyphs/N-S.png" height="50px" align="center"/> | <img src="Glyphs/O-S.png" height="50px" align="center"/> |
-T | <img src="Glyphs/CC-T.png" height="50px" align="center"/> | <img src="Glyphs/N-T.png" height="50px" align="center"/> | <img src="Glyphs/O-T.png" height="50px" align="center"/> |
-U | | <img src="Glyphs/N-U.png" height="50px" align="center"/> | <img src="Glyphs/O-U.png" height="50px" align="center"/> | |
-V | | <img src="Glyphs/N-V.png" height="50px" align="center"/> | <img src="Glyphs/O-V.png" height="50px" align="center"/> | |
-W | <img src="Glyphs/CC-W.png" height="50px" align="center"/> | <img src="Glyphs/N-W.png" height="50px" align="center"/> | <img src="Glyphs/O-W.png" height="50px" align="center"/> |
-X | | <img src="Glyphs/N-X.png" height="50px" align="center"/> | <img src="Glyphs/O-X.png" height="50px" align="center"/> | A duplication of the W glyph in MandoAF and Mando Alban's Bane BETA
-Y | <img src="Glyphs/CC-Y.png" height="50px" align="center"/> | <img src="Glyphs/N-Y.png" height="50px" align="center"/> | <img src="Glyphs/O-Y.png" height="50px" align="center"/> |
-Z | | <img src="Glyphs/N-Z.png" height="50px" align="center"/> | <img src="Glyphs/O-Z.png" height="50px" align="center"/> | |
-0 | | <img src="Glyphs/N-0.png" height="50px" align="center"/> | <img src="Glyphs/O-0.png" height="50px" align="center"/> | |
-1 | | <img src="Glyphs/N-1.png" height="50px" align="center"/> | <img src="Glyphs/O-1.png" height="50px" align="center"/> | |
-2 | | <img src="Glyphs/N-2.png" height="50px" align="center"/> | <img src="Glyphs/O-2.png" height="50px" align="center"/> | |
-3 | | <img src="Glyphs/N-3.png" height="50px" align="center"/> | <img src="Glyphs/O-3.png" height="50px" align="center"/> | |
-4 | | <img src="Glyphs/N-4.png" height="50px" align="center"/> | <img src="Glyphs/O-4.png" height="50px" align="center"/> | |
-5 | | <img src="Glyphs/N-5.png" height="50px" align="center"/> | <img src="Glyphs/O-5.png" height="50px" align="center"/> | |
-6 | | <img src="Glyphs/N-6.png" height="50px" align="center"/> | <img src="Glyphs/O-6.png" height="50px" align="center"/> | |
-7 | | <img src="Glyphs/N-7.png" height="50px" align="center"/> | <img src="Glyphs/O-7.png" height="50px" align="center"/> | |
-8 | | <img src="Glyphs/N-8.png" height="50px" align="center"/> | <img src="Glyphs/O-8.png" height="50px" align="center"/> | |
-9 | | <img src="Glyphs/N-9.png" height="50px" align="center"/> | <img src="Glyphs/O-9.png" height="50px" align="center"/> | |
+ABC | Coin | MandoPuter | MandoAF | 2004 | Notes
+:---: | :----: | :---: | :-------: | :---: | :-----
+A | <img src="Glyphs/CC-A.png" height="50px" align="center"/> | <img src="Glyphs/N-A.png" height="50px" align="center"/> | <img src="Glyphs/N-A.png" height="50px" align="center"/> | <img src="Glyphs/O-A.png" height="50px" align="center"/> |
+B | | <img src="Glyphs/N-B.png" height="50px" align="center"/> | <img src="Glyphs/N-B.png" height="50px" align="center"/> | <img src="Glyphs/O-B.png" height="50px" align="center"/> | |
+C | | <img src="Glyphs/N-C.png" height="50px" align="center"/> | <img src="Glyphs/N-C.png" height="50px" align="center"/> | <img src="Glyphs/O-C.png" height="50px" align="center"/> | |
+D | <img src="Glyphs/CC-D.png" height="50px" align="center"/> | <img src="Glyphs/N-D.png" height="50px" align="center"/> | <img src="Glyphs/N-D.png" height="50px" align="center"/> | <img src="Glyphs/O-D.png" height="50px" align="center"/> |
+E | <img src="Glyphs/CC-E.png" height="50px" align="center"/> | <img src="Glyphs/N-E.png" height="50px" align="center"/> | <img src="Glyphs/N-E.png" height="50px" align="center"/> | <img src="Glyphs/O-E.png" height="50px" align="center"/> |
+F | | <img src="Glyphs/N-F.png" height="50px" align="center"/> | <img src="Glyphs/N-F.png" height="50px" align="center"/> | <img src="Glyphs/O-F.png" height="50px" align="center"/> | |
+G | | <img src="Glyphs/N-G.png" height="50px" align="center"/> | <img src="Glyphs/N-H.png" height="50px" align="center"/> | <img src="Glyphs/O-G.png" height="50px" align="center"/> | |
+H | <img src="Glyphs/CC-H.png" height="50px" align="center"/> | <img src="Glyphs/N-H.png" height="50px" align="center"/> | <img src="Glyphs/N-H.png" height="50px" align="center"/> | <img src="Glyphs/O-H.png" height="50px" align="center"/> |
+I | <img src="Glyphs/CC-I.png" height="50px" align="center"/> | <img src="Glyphs/N-I.png" height="50px" align="center"/> | <img src="Glyphs/N-I.png" height="50px" align="center"/> | <img src="Glyphs/O-I.png" height="50px" align="center"/> |
+J | | <img src="Glyphs/N-J.png" height="50px" align="center"/> | <img src="Glyphs/N-I.png" height="50px" align="center"/> | <img src="Glyphs/O-J.png" height="50px" align="center"/> | My best guess based on the 2004 font. MandoAF and Mando Alban's Bane BETA uses a duplication of the I glyph
+K | | <img src="Glyphs/N-K.png" height="50px" align="center"/> | <img src="Glyphs/N-K.png" height="50px" align="center"/> | <img src="Glyphs/O-K.png" height="50px" align="center"/> | |
+L | <img src="Glyphs/CC-L.png" height="50px" align="center"/> | <img src="Glyphs/N-L.png" height="50px" align="center"/> | <img src="Glyphs/N-J.png" height="50px" align="center"/> | <img src="Glyphs/O-L.png" height="50px" align="center"/> | Glyph does not match the challenge coin in MandoAF and Mando Alban's Bane BETA
+M | <img src="Glyphs/CC-M.png" height="50px" align="center"/> | <img src="Glyphs/N-M.png" height="50px" align="center"/> | <img src="Glyphs/N-M.png" height="50px" align="center"/> | <img src="Glyphs/O-M.png" height="50px" align="center"/> |
+N | <img src="Glyphs/CC-N.png" height="50px" align="center"/> | <img src="Glyphs/N-N.png" height="50px" align="center"/> | <img src="Glyphs/N-N.png" height="50px" align="center"/> | <img src="Glyphs/O-N.png" height="50px" align="center"/> |
+O | <img src="Glyphs/CC-O.png" height="50px" align="center"/> | <img src="Glyphs/N-O.png" height="50px" align="center"/> | <img src="Glyphs/N-O.png" height="50px" align="center"/> | <img src="Glyphs/O-O.png" height="50px" align="center"/> |
+P | | <img src="Glyphs/N-P.png" height="50px" align="center"/> | <img src="Glyphs/N-P.png" height="50px" align="center"/> | <img src="Glyphs/O-P.png" height="50px" align="center"/> | |
+Q | | <img src="Glyphs/N-Q.png" height="50px" align="center"/> | <img src="Glyphs/N-Q.png" height="50px" align="center"/> | <img src="Glyphs/O-Q.png" height="50px" align="center"/> | |
+R | <img src="Glyphs/CC-R.png" height="50px" align="center"/> | <img src="Glyphs/N-R.png" height="50px" align="center"/> | <img src="Glyphs/N-R.png" height="50px" align="center"/> | <img src="Glyphs/O-R.png" height="50px" align="center"/> |
+S | <img src="Glyphs/CC-S.png" height="50px" align="center"/> | <img src="Glyphs/N-S.png" height="50px" align="center"/> | <img src="Glyphs/N-S.png" height="50px" align="center"/> | <img src="Glyphs/O-S.png" height="50px" align="center"/> |
+T | <img src="Glyphs/CC-T.png" height="50px" align="center"/> | <img src="Glyphs/N-T.png" height="50px" align="center"/> | <img src="Glyphs/N-T.png" height="50px" align="center"/> | <img src="Glyphs/O-T.png" height="50px" align="center"/> |
+U | | <img src="Glyphs/N-U.png" height="50px" align="center"/> | <img src="Glyphs/N-U.png" height="50px" align="center"/> | <img src="Glyphs/O-U.png" height="50px" align="center"/> | |
+V | | <img src="Glyphs/N-V.png" height="50px" align="center"/> | <img src="Glyphs/N-V.png" height="50px" align="center"/> | <img src="Glyphs/O-V.png" height="50px" align="center"/> | |
+W | <img src="Glyphs/CC-W.png" height="50px" align="center"/> | <img src="Glyphs/N-W.png" height="50px" align="center"/> | <img src="Glyphs/N-W.png" height="50px" align="center"/> | <img src="Glyphs/O-W.png" height="50px" align="center"/> |
+X | | <img src="Glyphs/N-X.png" height="50px" align="center"/> | <img src="Glyphs/N-X.png" height="50px" align="center"/> | <img src="Glyphs/O-X.png" height="50px" align="center"/> | A duplication of the W glyph in MandoAF and Mando Alban's Bane BETA
+Y | <img src="Glyphs/CC-Y.png" height="50px" align="center"/> | <img src="Glyphs/N-Y.png" height="50px" align="center"/> | <img src="Glyphs/N-Y.png" height="50px" align="center"/> | <img src="Glyphs/O-Y.png" height="50px" align="center"/> |
+Z | | <img src="Glyphs/N-Z.png" height="50px" align="center"/> | <img src="Glyphs/N-Z.png" height="50px" align="center"/> | <img src="Glyphs/O-Z.png" height="50px" align="center"/> | |
+0 | | <img src="Glyphs/N-0.png" height="50px" align="center"/> | <img src="Glyphs/N-0.png" height="50px" align="center"/> | <img src="Glyphs/O-0.png" height="50px" align="center"/> | |
+1 | | <img src="Glyphs/N-1.png" height="50px" align="center"/> | <img src="Glyphs/N-1.png" height="50px" align="center"/> | <img src="Glyphs/O-1.png" height="50px" align="center"/> | |
+2 | | <img src="Glyphs/N-2.png" height="50px" align="center"/> | <img src="Glyphs/N-2.png" height="50px" align="center"/> | <img src="Glyphs/O-2.png" height="50px" align="center"/> | |
+3 | | <img src="Glyphs/N-3.png" height="50px" align="center"/> | <img src="Glyphs/N-3.png" height="50px" align="center"/> | <img src="Glyphs/O-3.png" height="50px" align="center"/> | |
+4 | | <img src="Glyphs/N-4.png" height="50px" align="center"/> | <img src="Glyphs/N-4.png" height="50px" align="center"/> | <img src="Glyphs/O-4.png" height="50px" align="center"/> | |
+5 | | <img src="Glyphs/N-5.png" height="50px" align="center"/> | <img src="Glyphs/N-5.png" height="50px" align="center"/> | <img src="Glyphs/O-5.png" height="50px" align="center"/> | |
+6 | | <img src="Glyphs/N-6.png" height="50px" align="center"/> | <img src="Glyphs/N-6.png" height="50px" align="center"/> | <img src="Glyphs/O-6.png" height="50px" align="center"/> | |
+7 | | <img src="Glyphs/N-7.png" height="50px" align="center"/> | <img src="Glyphs/N-7.png" height="50px" align="center"/> | <img src="Glyphs/O-7.png" height="50px" align="center"/> | |
+8 | | <img src="Glyphs/N-8.png" height="50px" align="center"/> | <img src="Glyphs/N-8.png" height="50px" align="center"/> | <img src="Glyphs/O-8.png" height="50px" align="center"/> | |
+9 | | <img src="Glyphs/N-9.png" height="50px" align="center"/> | <img src="Glyphs/N-9.png" height="50px" align="center"/> | <img src="Glyphs/O-9.png" height="50px" align="center"/> | |
 
 ## Screen References
 
