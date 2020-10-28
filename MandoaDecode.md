@@ -51,7 +51,7 @@ The MandoPuter column shows the gliphs that I am using in the MandoPuter distrib
 
 ABC | Coin | MandoPuter | 2004 | Notes
 --- | ---- | --- | --- | -----
-A | <img src="Glyphs/CC-A.png" height="76px" align="center"/> | <img src="Glyphs/Glyphs/N-A.png" height="76px" align="center"/>) | <img src="Glyphs/O-A.png" height="76px" align="center"/> |
+A | <img src="Glyphs/CC-A.png" height="76px" align="center"/> | <img src="Glyphs/N-A.png" height="76px" align="center"/>) | <img src="Glyphs/O-A.png" height="76px" align="center"/> |
 A | ![Image](Glyphs/CC-A.png) | ![Image](Glyphs/N-A.png) | ![Image](Glyphs/O-A.png) |
 B | | ![Image](Glyphs/N-B.png) | ![Image](Glyphs/O-B.png) |
 C | | ![Image](Glyphs/N-C.png) | ![Image](Glyphs/O-C.png) |
