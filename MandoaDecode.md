@@ -139,9 +139,15 @@ Episode | From | To | Sequence | Notes
 #3 | 09:27 | 09:29 | ??? TRH | Small and slightly out of focus
 #3 | 09:51 | 09:55 | ??? | Small and out of focus
 
-## Current MandoPuter Sequence
+## Current MandoPuter Sequences that have been decoded
 
-Work in progress, coming soon
+**Episode 2: The Child - 24:48**
+messages = [ "JBM", "MLM", "SAS", "AJS", "SAS"]
+delays =   [ 0.50,  0.84,  1.00,  0.35,  0.84 ]
+
+**Disney Gallery Star Wars: The Mandalorian episode #3 - 03:59**
+messages = [ "MLM", "JBM", "SAS", "JAS"]
+delays =   [ 0.75,  0.75,  0.650,  0.75 ]
 
 ## Contributions
 
