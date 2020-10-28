@@ -89,9 +89,9 @@ Z | | <img src="Glyphs/N-Z.png" height="50px" align="center"/> | <img src="Glyph
 
 ## Screen References
 
-### Episode #1 - The Mandalorian
+Sequences from The Mandalorian episodes - work in progress coming soon. ??? characters means the glyphs have not been identified for the clip.
 
-Sequences from The Mandalorian episodes - work in progress coming soon
+### Episode #1 - The Mandalorian
 
 Episode | From | To | Sequence | Notes
 :---: | :----: | :---: | --- | -----
