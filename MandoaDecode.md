@@ -34,7 +34,7 @@ This font is useful in trying to decode new characters, or at least making an ed
 
 ![Image](ChallengeCoin.jpg)
 
-The challenge coin was a big help in the creation of the new font. It has 14 characters listed and spells out "THE MANDALORIAN" and "THIS IS THE WAY"
+The [challenge coin](https://www.bobafettfanclub.com/multimedia/daily/1866/) was a big help in the creation of the new font. It has 14 characters listed and spells out "THE MANDALORIAN" and "THIS IS THE WAY"
 
 ABC | Coin | New | Old
 --- | ---- | --- | ---
