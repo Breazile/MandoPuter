@@ -62,7 +62,7 @@ F | | <img src="Glyphs/N-F.png" height="50px" align="center"/> | <img src="Glyph
 G | | <img src="Glyphs/N-G.png" height="50px" align="center"/> | <img src="Glyphs/O-G.png" height="50px" align="center"/> | |
 H | <img src="Glyphs/CC-H.png" height="50px" align="center"/> | <img src="Glyphs/N-H.png" height="50px" align="center"/> | <img src="Glyphs/O-H.png" height="50px" align="center"/> |
 I | <img src="Glyphs/CC-I.png" height="50px" align="center"/> | <img src="Glyphs/N-I.png" height="50px" align="center"/> | <img src="Glyphs/O-I.png" height="50px" align="center"/> |
-J | | <img src="Glyphs/N-J.png" height="50px" align="center"/> | <img src="Glyphs/O-J.png" height="50px" align="center"/> | | My best guess based on the 2004 font. MandoAF and Mando Alban's Bane BETA uses a duplication of the I glyph
+J | | <img src="Glyphs/N-J.png" height="50px" align="center"/> | <img src="Glyphs/O-J.png" height="50px" align="center"/> | My best guess based on the 2004 font. MandoAF and Mando Alban's Bane BETA uses a duplication of the I glyph
 K | | <img src="Glyphs/N-K.png" height="50px" align="center"/> | <img src="Glyphs/O-K.png" height="50px" align="center"/> | |
 L | <img src="Glyphs/CC-L.png" height="50px" align="center"/> | <img src="Glyphs/N-L.png" height="50px" align="center"/> | <img src="Glyphs/O-L.png" height="50px" align="center"/> | Glyph is incorrect in MandoAF and Mando Alban's Bane BETA
 M | <img src="Glyphs/CC-M.png" height="50px" align="center"/> | <img src="Glyphs/N-M.png" height="50px" align="center"/> | <img src="Glyphs/O-M.png" height="50px" align="center"/> |
