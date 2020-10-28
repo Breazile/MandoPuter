@@ -67,7 +67,17 @@ Z | | ![Image](Glyphs/N-Z.png) | ![Image](Glyphs/O-Z.png)
 
 ## Screen References
 
-bla bla bla
+Disney Gallery Star Wars: The Mandalorian
+
+Episode | From | To | Sequence
+--- | ---- | --- | ---
+#3 Directing | 03:59 | 04:01 | MLM JBM SAS JAS
+#3 Directing | 04:09 | 04:13 | ??? ??? ??? ??? TRH ???
+#3 Directing | 04:29 | 04:33 | SAS JBM JRS SAS
+#3 Directing | 04:40 | 04:41 | ???
+#3 Directing | 09:27 | 09:29 | ??? TRH
+#3 Directing | 09:51 | 09:55 | ???
+#3 Directing | 20:06 | 20:07 | ???
 
 ## Decoded Sequences
 
