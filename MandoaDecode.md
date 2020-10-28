@@ -71,13 +71,13 @@ Gauntlet sequences seen in [Disney Gallery Star Wars: The Mandalorian](https://d
 
 Episode | From | To | Sequence
 --- | ---- | --- | ---
-#3 Directing | 03:59 | 04:01 | MLM JBM SAS JAS
-#3 Directing | 04:09 | 04:13 | ??? ??? ??? ??? TRH ???
-#3 Directing | 04:29 | 04:33 | SAS JBM JRS SAS
-#3 Directing | 04:40 | 04:41 | ???
-#3 Directing | 09:27 | 09:29 | ??? TRH
-#3 Directing | 09:51 | 09:55 | ???
-#3 Directing | 20:06 | 20:07 | ???
+Episode #3 - Cast | 03:59 | 04:01 | MLM JBM SAS JAS
+Episode #3 - Cast | 04:09 | 04:13 | ??? ??? ??? ??? TRH ???
+Episode #3 - Cast | 04:29 | 04:33 | SAS JBM JRS SAS
+Episode #3 - Cast | 04:40 | 04:41 | ???
+Episode #3 - Cast | 09:27 | 09:29 | ??? TRH
+Episode #3 - Cast | 09:51 | 09:55 | ???
+Episode #3 - Cast | 20:06 | 20:07 | ???
 
 ## Current MandoPuter Sequence
 
