@@ -61,7 +61,7 @@ H | <img src="Glyphs/CC-H.png" height="50px" align="center"/> | <img src="Glyphs
 I | <img src="Glyphs/CC-I.png" height="50px" align="center"/> | <img src="Glyphs/N-I.png" height="50px" align="center"/> | <img src="Glyphs/O-I.png" height="50px" align="center"/> |
 J | | <img src="Glyphs/N-J.png" height="50px" align="center"/> | <img src="Glyphs/O-J.png" height="50px" align="center"/> | My best guess based on the 2004 font. MandoAF and Mando Alban's Bane BETA uses a duplication of the I glyph
 K | | <img src="Glyphs/N-K.png" height="50px" align="center"/> | <img src="Glyphs/O-K.png" height="50px" align="center"/> | |
-L | <img src="Glyphs/CC-L.png" height="50px" align="center"/> | <img src="Glyphs/N-L.png" height="50px" align="center"/> | <img src="Glyphs/O-L.png" height="50px" align="center"/> | Glyph is incorrect in MandoAF and Mando Alban's Bane BETA
+L | <img src="Glyphs/CC-L.png" height="50px" align="center"/> | <img src="Glyphs/N-L.png" height="50px" align="center"/> | <img src="Glyphs/O-L.png" height="50px" align="center"/> | Glyph does not match the challenge coin in MandoAF and Mando Alban's Bane BETA
 M | <img src="Glyphs/CC-M.png" height="50px" align="center"/> | <img src="Glyphs/N-M.png" height="50px" align="center"/> | <img src="Glyphs/O-M.png" height="50px" align="center"/> |
 N | <img src="Glyphs/CC-N.png" height="50px" align="center"/> | <img src="Glyphs/N-N.png" height="50px" align="center"/> | <img src="Glyphs/O-N.png" height="50px" align="center"/> |
 O | <img src="Glyphs/CC-O.png" height="50px" align="center"/> | <img src="Glyphs/N-O.png" height="50px" align="center"/> | <img src="Glyphs/O-O.png" height="50px" align="center"/> |
