@@ -36,38 +36,47 @@ This font is useful in trying to decode new characters, or at least making an ed
 
 The [challenge coin](https://www.bobafettfanclub.com/multimedia/daily/1866/) was a big help in the creation of the new font. It has 14 characters listed and spells out "THE MANDALORIAN" and "THIS IS THE WAY"
 
-ABC | Coin | 2019 | 2004
---- | ---- | --- | ---
-A | ![Image](Glyphs/CC-A.png) | ![Image](Glyphs/N-A.png) | ![Image](Glyphs/O-A.png)
-B | | ![Image](Glyphs/N-B.png) | ![Image](Glyphs/O-B.png)
-C | | ![Image](Glyphs/N-C.png) | ![Image](Glyphs/O-C.png)
-D | ![Image](Glyphs/CC-D.png) | ![Image](Glyphs/N-D.png) | ![Image](Glyphs/O-D.png)
-E | ![Image](Glyphs/CC-E.png) | ![Image](Glyphs/N-E.png) | ![Image](Glyphs/O-E.png)
-F | | ![Image](Glyphs/N-F.png) | ![Image](Glyphs/O-F.png)
-G | | ![Image](Glyphs/N-G.png) | ![Image](Glyphs/O-G.png)
-H | ![Image](Glyphs/CC-H.png) | ![Image](Glyphs/N-H.png) | ![Image](Glyphs/O-H.png)
-I | ![Image](Glyphs/CC-I.png) | ![Image](Glyphs/N-I.png) | ![Image](Glyphs/O-I.png)
-J | | ![Image](Glyphs/N-J.png) | ![Image](Glyphs/O-J.png)
-K | | ![Image](Glyphs/N-K.png) | ![Image](Glyphs/O-K.png)
-L | ![Image](Glyphs/CC-L.png) | ![Image](Glyphs/N-L.png) | ![Image](Glyphs/O-L.png)
-M | ![Image](Glyphs/CC-M.png) | ![Image](Glyphs/N-M.png) | ![Image](Glyphs/O-M.png)
-N | ![Image](Glyphs/CC-N.png) | ![Image](Glyphs/N-N.png) | ![Image](Glyphs/O-N.png)
-O | ![Image](Glyphs/CC-O.png) | ![Image](Glyphs/N-O.png) | ![Image](Glyphs/O-O.png)
-P | | ![Image](Glyphs/N-P.png) | ![Image](Glyphs/O-P.png)
-Q | | ![Image](Glyphs/N-Q.png) | ![Image](Glyphs/O-Q.png)
-R | ![Image](Glyphs/CC-R.png) | ![Image](Glyphs/N-R.png) | ![Image](Glyphs/O-R.png)
-S | ![Image](Glyphs/CC-S.png) | ![Image](Glyphs/N-S.png) | ![Image](Glyphs/O-S.png)
-T | ![Image](Glyphs/CC-T.png) | ![Image](Glyphs/N-T.png) | ![Image](Glyphs/O-T.png)
-U | | ![Image](Glyphs/N-U.png) | ![Image](Glyphs/O-U.png)
-V | | ![Image](Glyphs/N-V.png) | ![Image](Glyphs/O-V.png)
-W | ![Image](Glyphs/CC-W.png) | ![Image](Glyphs/N-W.png) | ![Image](Glyphs/O-W.png)
-X | | ![Image](Glyphs/N-X.png) | ![Image](Glyphs/O-X.png)
-Y | ![Image](Glyphs/CC-Y.png) | ![Image](Glyphs/N-Y.png) | ![Image](Glyphs/O-Y.png)
-Z | | ![Image](Glyphs/N-Z.png) | ![Image](Glyphs/O-Z.png)
+ABC | Coin | 2019 | 2004 | Notes
+--- | ---- | --- | --- | -----
+A | ![Image](Glyphs/CC-A.png) | ![Image](Glyphs/N-A.png) | ![Image](Glyphs/O-A.png) |
+B | | ![Image](Glyphs/N-B.png) | ![Image](Glyphs/O-B.png) |
+C | | ![Image](Glyphs/N-C.png) | ![Image](Glyphs/O-C.png) |
+D | ![Image](Glyphs/CC-D.png) | ![Image](Glyphs/N-D.png) | ![Image](Glyphs/O-D.png) |
+E | ![Image](Glyphs/CC-E.png) | ![Image](Glyphs/N-E.png) | ![Image](Glyphs/O-E.png) |
+F | | ![Image](Glyphs/N-F.png) | ![Image](Glyphs/O-F.png) |
+G | | ![Image](Glyphs/N-G.png) | ![Image](Glyphs/O-G.png) |
+H | ![Image](Glyphs/CC-H.png) | ![Image](Glyphs/N-H.png) | ![Image](Glyphs/O-H.png) |
+I | ![Image](Glyphs/CC-I.png) | ![Image](Glyphs/N-I.png) | ![Image](Glyphs/O-I.png) |
+J | | ![Image](Glyphs/N-J.png) | ![Image](Glyphs/O-J.png) | My best guess based on the 2004 font. MandoAF and Mando Alban's Bane BETA uses a duplication of the I glyph
+K | | ![Image](Glyphs/N-K.png) | ![Image](Glyphs/O-K.png) |
+L | ![Image](Glyphs/CC-L.png) | ![Image](Glyphs/N-L.png) | ![Image](Glyphs/O-L.png) | Glyph is incorrect in MandoAF and Mando Alban's Bane BETA
+M | ![Image](Glyphs/CC-M.png) | ![Image](Glyphs/N-M.png) | ![Image](Glyphs/O-M.png) |
+N | ![Image](Glyphs/CC-N.png) | ![Image](Glyphs/N-N.png) | ![Image](Glyphs/O-N.png) |
+O | ![Image](Glyphs/CC-O.png) | ![Image](Glyphs/N-O.png) | ![Image](Glyphs/O-O.png) |
+P | | ![Image](Glyphs/N-P.png) | ![Image](Glyphs/O-P.png) |
+Q | | ![Image](Glyphs/N-Q.png) | ![Image](Glyphs/O-Q.png) |
+R | ![Image](Glyphs/CC-R.png) | ![Image](Glyphs/N-R.png) | ![Image](Glyphs/O-R.png) |
+S | ![Image](Glyphs/CC-S.png) | ![Image](Glyphs/N-S.png) | ![Image](Glyphs/O-S.png) |
+T | ![Image](Glyphs/CC-T.png) | ![Image](Glyphs/N-T.png) | ![Image](Glyphs/O-T.png) |
+U | | ![Image](Glyphs/N-U.png) | ![Image](Glyphs/O-U.png) |
+V | | ![Image](Glyphs/N-V.png) | ![Image](Glyphs/O-V.png) |
+W | ![Image](Glyphs/CC-W.png) | ![Image](Glyphs/N-W.png) | ![Image](Glyphs/O-W.png) |
+X | | ![Image](Glyphs/N-X.png) | ![Image](Glyphs/O-X.png) | A duplication of the W glyph in MandoAF and Mando Alban's Bane BETA
+Y | ![Image](Glyphs/CC-Y.png) | ![Image](Glyphs/N-Y.png) | ![Image](Glyphs/O-Y.png) |
+Z | | ![Image](Glyphs/N-Z.png) | ![Image](Glyphs/O-Z.png) |
 
 ## Screen References
 
-Gauntlet sequences seen in [Disney Gallery Star Wars: The Mandalorian](https://disneyplusoriginals.disney.com/show/disney-gallery-the-mandalorian). Timestamps are close, but may not be exact to your clip. It should get you close and you can go frame by frame if possible. ??? charaters mean I do not know what they are. Many shots are blurry or too far away to make out clearly.
+### The Mandalorian Season 1
+
+Sequences from The Mandalorian episodes - work in progress coming soon
+
+Episode | From | To | Sequence | Notes
+--- | ---- | --- | --- | -----
+
+### Disney Gallery Star Wars: The Mandalorian
+
+Gauntlet sequences from behind the scenes footage in [Disney Gallery Star Wars: The Mandalorian](https://disneyplusoriginals.disney.com/show/disney-gallery-the-mandalorian). Timestamps are close, and should get you close to when the sequence starts. ??? charaters mean I do not know what they are. Many shots are blurry or too far away to make out clearly.
 
 Episode | From | To | Sequence | Notes
 --- | ---- | --- | --- | -----
@@ -78,8 +87,12 @@ Episode #3 - Cast | 04:40 | 04:41 | ??? | Hard to make out, display refresh vs c
 Episode #3 - Cast | 09:27 | 09:29 | ??? TRH | Small and slightly out of focus
 Episode #3 - Cast | 09:51 | 09:55 | ??? | Small and out of focus
 
-Sequences from The Mandalorian episodes - work in progress coming soon
-
 ## Current MandoPuter Sequence
 
-TBD
+Work in progress, coming soon
+
+## Contributions
+
+Thanks to Luke Dailey for starting the conversation and sparking renewed interest in finding the sequence. Also thanks to Luke for pointing me to the AurekFont fonts.
+
+Thanks to Aldo Andrei for pouring through video clips and putting together the most accurate sequence for the MandoPuter.
