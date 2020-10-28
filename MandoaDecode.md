@@ -13,6 +13,7 @@ This page focuses on decoding the character sequence used in the TV series [The 
   <img src="MandoAF-charset.png" height="450px" align="center"/>
 </div>
 
+
 If you look closely you will notice that the font used in the gauntlet is different from what was seen in the original Star Wars Series. At this point we lack a complete reference for the font, but we do know 14 characters from the [challenge coin](https://www.bobafettfanclub.com/multimedia/daily/1866/). 
 
 In addition, we have seen one new character on the gauntlet display <img src="Glyphs/NewChar.JPG" height="35px" align="center"/>, but are not 100% sure which character this maps to, but I'm assuming it is a J until we have a better reference.
@@ -32,6 +33,7 @@ I have a modified version of the MandoAF font with the corrected L glyph (upside
   <img src="2004Font.JPG" height="450px" align="center"/>
 </div>
 
+
 You can see the font decoded from the original Star Wars series over on the [Erikstormtrooper website](http://www.erikstormtrooper.com/mandalorian.htm). It was decoded from the 2004 Star Wars trilogy DVD set.
 
 This font is useful in trying to decode new characters, or at least making an educated guess of which letter a new font character should be assigned to.
@@ -39,6 +41,7 @@ This font is useful in trying to decode new characters, or at least making an ed
 ## Font References
 
 ![Image](ChallengeCoin.jpg)
+
 
 The [challenge coin](https://www.bobafettfanclub.com/multimedia/daily/1866/) was a big help in the creation of the new font. It has 14 characters listed and spells out "THE MANDALORIAN" and "THIS IS THE WAY"
 
@@ -48,6 +51,7 @@ The MandoPuter column shows the gliphs that I am using in the MandoPuter distrib
 
 ABC | Coin | MandoPuter | 2004 | Notes
 --- | ---- | --- | --- | -----
+A | <img src="Glyphs/CC-A.png" height="76px" align="center"/> | <img src="Glyphs/Glyphs/N-A.png" height="76px" align="center"/>) | <img src="Glyphs/O-A.png" height="76px" align="center"/> |
 A | ![Image](Glyphs/CC-A.png) | ![Image](Glyphs/N-A.png) | ![Image](Glyphs/O-A.png) |
 B | | ![Image](Glyphs/N-B.png) | ![Image](Glyphs/O-B.png) |
 C | | ![Image](Glyphs/N-C.png) | ![Image](Glyphs/O-C.png) |
