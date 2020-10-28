@@ -2,12 +2,16 @@
 
 This page focuses on decoding the character sequence used in the TV series [The Mandalorian](https://www.starwars.com/series/the-mandalorian) so it can be used to configure an accurate display for cosplay using a [MandoPuter](https://github.com/Breazile/MandoPuter)
 
-![Image](GauntletLcd.JPG) 
-![Image](DisplayZoom.png) 
+<div align="center">
+  <img src="GauntletLcd.JPG" height="300px" align="center"/>
+  <img src="DisplayZoom.png" height="300px" align="center"/>
+</div>
 
 ## A New Font
 
-![Image](MandoAF-charset.png)
+<div align="center">
+  <img src="MandoAF-charset.png" height="450px" align="center"/>
+</div>
 
 If you look closely you will notice that the font used in the gauntlet is different from what was seen in the original Star Wars Series. At this point we lack a complete reference for the font, but we do know 14 characters from the [challenge coin](https://www.bobafettfanclub.com/multimedia/daily/1866/). 
 
@@ -121,9 +125,9 @@ Work in progress, coming soon
 
 ## Contributions
 
-Thanks to Luke Dailey for starting the conversation and sparking renewed interest in finding the sequence. Also thanks to Luke for pointing me to the AurekFont fonts.
+Thanks to **Luke Dailey** for starting the conversation and sparking renewed interest in finding the sequence. Also thanks to Luke for pointing me to the AurekFont fonts.
 
-Thanks to Aldo Andrei for pouring through video clips and putting together the most accurate sequence for the MandoPuter.
+Thanks to **Aldo Andrei** for pouring through video clips and putting together the most accurate sequence for the MandoPuter.
 
 Thanks to the many folks in the Mandalorian Facebook groups who are always willing to pitch in and help: 
 
