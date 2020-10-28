@@ -34,7 +34,36 @@ This font is useful in trying to decode new characters, or at least making an ed
 
 ![Image](ChallengeCoin.jpg)
 
-bla bla bla
+The challenge coin was a big help in the creation of the new font. It has 14 characters listed and spells out "THE MANDALORIAN" and "THIS IS THE WAY"
+
+ABC | Coin | New | Old
+--- | ---- | --- | ---
+A | ![Image](CC-A.png) | ![Image](N-A.png) | ![Image](O-A.png)
+B | | ![Image](N-A.png) | ![Image](O-A.png)
+C | | ![Image](N-C.png) | ![Image](O-C.png)
+D | ![Image](CC-D.png) | ![Image](N-D.png) | ![Image](O-D.png)
+E | ![Image](CC-E.png) | ![Image](N-E.png) | ![Image](O-E.png)
+F | | ![Image](N-F.png) | ![Image](O-F.png)
+G | | ![Image](N-G.png) | ![Image](O-G.png)
+H | ![Image](CC-H.png) | ![Image](N-H.png) | ![Image](O-H.png)
+I | ![Image](CC-I.png) | ![Image](N-I.png) | ![Image](O-I.png)
+J | | ![Image](N-J.png) | ![Image](O-J.png)
+K | | ![Image](N-K.png) | ![Image](O-K.png)
+L | ![Image](CC-L.png) | ![Image](N-L.png) | ![Image](O-L.png)
+M | ![Image](CC-M.png) | ![Image](N-M.png) | ![Image](O-M.png)
+N | ![Image](CC-N.png) | ![Image](N-N.png) | ![Image](O-N.png)
+O | ![Image](CC-O.png) | ![Image](N-O.png) | ![Image](O-O.png)
+P | | ![Image](N-P.png) | ![Image](O-P.png)
+Q | | ![Image](N-Q.png) | ![Image](O-Q.png)
+R | ![Image](CC-R.png) | ![Image](N-R.png) | ![Image](O-R.png)
+S | ![Image](CC-S.png) | ![Image](N-S.png) | ![Image](O-S.png)
+T | ![Image](CC-T.png) | ![Image](N-T.png) | ![Image](O-T.png)
+U | | ![Image](N-U.png) | ![Image](O-U.png)
+V | | ![Image](N-V.png) | ![Image](O-V.png)
+W | ![Image](CC-W.png) | ![Image](N-W.png) | ![Image](O-W.png)
+X | | ![Image](N-X.png) | ![Image](O-X.png)
+Y | ![Image](CC-Y.png) | ![Image](N-Y.png) | ![Image](O-Y.png)
+Z | | ![Image](N-Z.png) | ![Image](O-Z.png)
 
 ## Screen References
 
