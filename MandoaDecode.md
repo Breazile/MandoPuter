@@ -116,12 +116,12 @@ Gauntlet sequences from behind the scenes footage in [Disney Gallery Star Wars: 
 
 Episode | From | To | Sequence | Notes
 :---: | :----: | :---: | --- | -----
-Episode #3 - Cast | 03:59 | 04:01 | MLM JBM SAS JAS | Assuming the J glyph is correct. Video cuts away after the last sequence and might still be in transition
-Episode #3 - Cast | 04:09 | 04:13 | ??? ??? ??? ??? TRH ??? | Small text with some detail missing. Might yield some sequences
-Episode #3 - Cast | 04:29 | 04:33 | SAS JBM JRS SAS | Assuming the J glyph is correct. Very clear sequence
-Episode #3 - Cast | 04:40 | 04:41 | ??? | Hard to make out, display refresh vs camera frame rate artifacts
-Episode #3 - Cast | 09:27 | 09:29 | ??? TRH | Small and slightly out of focus
-Episode #3 - Cast | 09:51 | 09:55 | ??? | Small and out of focus
+#3 - Cast | 03:59 | 04:01 | MLM JBM SAS JAS | Assuming the J glyph is correct. Video cuts away after the last sequence and might still be in transition
+#3 - Cast | 04:09 | 04:13 | ??? ??? ??? ??? TRH ??? | Small text with some detail missing. Might yield some sequences
+#3 - Cast | 04:29 | 04:33 | SAS JBM JRS SAS | Assuming the J glyph is correct. Very clear sequence
+#3 - Cast | 04:40 | 04:41 | ??? | Hard to make out, display refresh vs camera frame rate artifacts
+#3 - Cast | 09:27 | 09:29 | ??? TRH | Small and slightly out of focus
+#3 - Cast | 09:51 | 09:55 | ??? | Small and out of focus
 
 ## Current MandoPuter Sequence
 
