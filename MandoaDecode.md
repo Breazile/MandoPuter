@@ -142,12 +142,16 @@ Episode | From | To | Sequence | Notes
 ## Current MandoPuter Sequences that have been decoded
 
 **Episode 2: The Child - 24:48**
+```
 messages = [ "JBM", "MLM", "SAS", "AJS", "SAS"]
 delays =   [ 0.50,  0.84,  1.00,  0.35,  0.84 ]
+```
 
 **Disney Gallery Star Wars: The Mandalorian episode #3 - 03:59**
+```
 messages = [ "MLM", "JBM", "SAS", "JAS"]
 delays =   [ 0.75,  0.75,  0.650,  0.75 ]
+```
 
 ## Contributions
 
