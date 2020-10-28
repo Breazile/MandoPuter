@@ -135,6 +135,7 @@ From | To | Sequence | Notes
 From | To | Sequence | Notes
 :----: | :--: | :-------- | :-----
 06:29 | 06:35 | SAS TRH SAS ??? | Last sequence not clear
+08:21 | 08:26 | ??? | Out of focus
 
 ### Disney Gallery Star Wars: The Mandalorian
 
