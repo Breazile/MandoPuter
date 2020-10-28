@@ -36,7 +36,7 @@ This font is useful in trying to decode new characters, or at least making an ed
 
 The [challenge coin](https://www.bobafettfanclub.com/multimedia/daily/1866/) was a big help in the creation of the new font. It has 14 characters listed and spells out "THE MANDALORIAN" and "THIS IS THE WAY"
 
-ABC | Coin | 2019 | 2004 | Notes
+ABC | Coin | MandoPuter | 2004 | Notes
 --- | ---- | --- | --- | -----
 A | ![Image](Glyphs/CC-A.png) | ![Image](Glyphs/N-A.png) | ![Image](Glyphs/O-A.png) |
 B | | ![Image](Glyphs/N-B.png) | ![Image](Glyphs/O-B.png) |
