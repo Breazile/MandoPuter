@@ -45,15 +45,13 @@ This font is useful in trying to decode new characters, or at least making an ed
 The [challenge coin](https://www.bobafettfanclub.com/multimedia/daily/1866/) was a big help in the creation of the new font. It has 14 characters listed and spells out "THE MANDALORIAN" and "THIS IS THE WAY"
 
 ## Font Glyph Details
-This is the modified font sheet for the characters used in the MandoPuter OTF file. The font sheet is a modified version of [Mando Alban's Bane [BETA]](https://aurekfonts.github.io/?font=AlbansBane) with a couple of characters changed according to the table below.
+This is the modified font sheet for the characters used in the MandoPuter OTF file. The graphic is a modified version of [Mando Alban's Bane [BETA]](https://aurekfonts.github.io/?font=AlbansBane) font sheet with a couple of characters changed according to the table below.
 
 <div align="center">
   <a href="https://aurekfonts.github.io/?font=AlbansBane">
     <img src="https://github.com/Breazile/MandoPuter/blob/master/Glyphs/MandoPuterFont.png" height="450px" align="center"/>
   </a>
 </div><br>
-
-The MandoPuter column shows the gliphs that I am using in the MandoPuter distribution and is the most accurate font that I am aware of.
 
 ABC | Coin | MandoPuter | MandoAF | 2004 | Notes
 :---: | :----: | :---: | :-------: | :---: | :-----
