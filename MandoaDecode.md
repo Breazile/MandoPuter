@@ -80,7 +80,7 @@ Gauntlet sequences from behind the scenes footage in [Disney Gallery Star Wars: 
 
 Episode | From | To | Sequence | Notes
 --- | ---- | --- | --- | -----
-Episode #3 - Cast | 03:59 | 04:01 | MLM JBM SAS JAS | Assuming the J glyph is correct. Video cuts away after the last sequence might still be in transition
+Episode #3 - Cast | 03:59 | 04:01 | MLM JBM SAS JAS | Assuming the J glyph is correct. Video cuts away after the last sequence and might still be in transition
 Episode #3 - Cast | 04:09 | 04:13 | ??? ??? ??? ??? TRH ??? | Small text with some detail missing. Might yield some sequences
 Episode #3 - Cast | 04:29 | 04:33 | SAS JBM JRS SAS | Assuming the J glyph is correct. Very clear sequence
 Episode #3 - Cast | 04:40 | 04:41 | ??? | Hard to make out, display refresh vs camera frame rate artifact
