@@ -94,7 +94,7 @@ Sequences from The Mandalorian episodes - work in progress coming soon. ??? char
 ### Episode #1 - The Mandalorian
 
 Episode | From | To | Sequence | Notes
-:---: | :----: | :---: | --- | -----
+:-------: | :----: | :--: | :-------- | :-----
 #1 | 02:11 | 02:16 | ??? | Blury and a lot of motion. Display refresh vs camera frame rate artifacts
 #1 | 02:22 | 02:29 | ??? | Blury and a lot of motion. Display refresh vs camera frame rate artifacts
 #1 | 02:46 | 03:22 | ??? | Out of focus, but you can get some timing information on sequence changes
@@ -115,7 +115,7 @@ Episode | From | To | Sequence | Notes
 Gauntlet sequences from behind the scenes footage in [Disney Gallery Star Wars: The Mandalorian](https://disneyplusoriginals.disney.com/show/disney-gallery-the-mandalorian). Timestamps are close, and should get you close to when the sequence starts. ??? charaters mean I do not know what they are. Many shots are blurry or too far away to make out clearly.
 
 Episode | From | To | Sequence | Notes
-:---: | :----: | :---: | --- | -----
+:-------: | :----: | :--: | :-------- | :-----
 #3 - Cast | 03:59 | 04:01 | MLM JBM SAS JAS | Assuming the J glyph is correct. Video cuts away after the last sequence and might still be in transition
 #3 - Cast | 04:09 | 04:13 | ??? ??? ??? ??? TRH ??? | Small text with some detail missing. Might yield some sequences
 #3 - Cast | 04:29 | 04:33 | SAS JBM JRS SAS | Assuming the J glyph is correct. Very clear sequence
