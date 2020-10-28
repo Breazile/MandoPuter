@@ -15,7 +15,7 @@ This page focuses on decoding the character sequence used in the TV series [The 
 
 If you look closely you will notice that the font used in the gauntlet is different from what was seen in the original Star Wars Series. At this point we lack a complete reference for the font, but we do know 14 characters from the [challenge coin](https://www.bobafettfanclub.com/multimedia/daily/1866/). 
 
-In addition, we have seen one new character on the gauntlet display ![Image](Glyphs/NewChar.JPG), but are not 100% sure which character this maps to, but I'm assuming it is a J until we have a better reference.
+In addition, we have seen one new character on the gauntlet display <img src="Glyphs/NewChar.JPG" height="35px" align="center"/>, but are not 100% sure which character this maps to, but I'm assuming it is a J until we have a better reference.
 
 There are a couple of alternate fonts being made that closely match the new type style. They are over on [AurekFonts](https://aurekfonts.github.io/):
 
@@ -28,7 +28,9 @@ I have a modified version of the MandoAF font with the corrected L glyph (upside
 
 ## Original Series Font
 
-![Image](2004Font.JPG)
+<div align="center">
+  <img src="2004Font.JPG" height="450px" align="center"/>
+</div>
 
 You can see the font decoded from the original Star Wars series over on the [Erikstormtrooper website](http://www.erikstormtrooper.com/mandalorian.htm). It was decoded from the 2004 Star Wars trilogy DVD set.
 
