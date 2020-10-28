@@ -93,22 +93,28 @@ Sequences from [The Mandalorian](https://disneyplusoriginals.disney.com/show/the
 
 ### The Mandalorian Season 1
 
-Episode | From | To | Sequence | Notes
-:-------: | :----: | :--: | :-------- | :-----
-#1 | 02:11 | 02:16 | ??? | Blury and a lot of motion. Display refresh vs camera frame rate artifacts
-#1 | 02:22 | 02:29 | ??? | Blury and a lot of motion. Display refresh vs camera frame rate artifacts
-#1 | 02:46 | 03:22 | ??? | Out of focus, but you can get some timing information on sequence changes
-#1 | 07:05 | 07:06 | ??? | Out of focus
-#1 | 10:55 | 10:58 | ??? | Out of focus
-#1 | 11:39 | 11:43 | ??? | Out of focus, but you can get some timing information on sequence changes
-#1 | 12:06 | 12:07 | ??? | Out of focus
-#1 | 12:16 | 12:20 | ??? | Out of focus, but you can get some timing information on sequence changes
-#1 | 13:02 | 13:04 | ??? | Out of focus
-#1 | 18:20 | 18:40 | ??? | Out of focus
-#1 | 19:24 | 19:35 | ??? | Out of focus
-#1 | 24:09 | 24:38 | ??? | Out of focus, but you can get some timing information on sequence changes
-#1 | 24:48 | 24:55 | ??? | Out of focus, but you can get some timing information on sequence changes
-#1 | 35:13 | 35:19 | ??? | Out of focus
+#### Episode 1: The Mandalorian
+From | To | Sequence | Notes
+:----: | :--: | :-------- | :-----
+02:11 | 02:16 | ??? | Blury and a lot of motion. Display refresh vs camera frame rate artifacts
+02:22 | 02:29 | ??? | Blury and a lot of motion. Display refresh vs camera frame rate artifacts
+02:46 | 03:22 | ??? | Out of focus, but you can get some timing information on sequence changes
+07:05 | 07:06 | ??? | Out of focus
+10:55 | 10:58 | ??? | Out of focus
+11:39 | 11:43 | ??? | Out of focus, but you can get some timing information on sequence changes
+12:06 | 12:07 | ??? | Out of focus
+12:16 | 12:20 | ??? | Out of focus, but you can get some timing information on sequence changes
+13:02 | 13:04 | ??? | Out of focus
+18:20 | 18:40 | ??? | Out of focus
+19:24 | 19:35 | ??? | Out of focus
+24:09 | 24:38 | ??? | Out of focus, but you can get some timing information on sequence changes
+24:48 | 24:55 | ??? | Out of focus, but you can get some timing information on sequence changes
+35:13 | 35:19 | ??? | Out of focus
+
+#### Episode 2: The Child
+From | To | Sequence | Notes
+:----: | :--: | :-------- | :-----
+02:44 | 02:48 | ?ET SAS TRH | Out of focus, best guess
 
 ### Disney Gallery Star Wars: The Mandalorian
 
