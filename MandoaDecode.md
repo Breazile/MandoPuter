@@ -79,6 +79,7 @@ W | <img src="Glyphs/CC-W.png" height="50px" align="center"/> | <img src="Glyphs
 X | | <img src="Glyphs/N-X.png" height="50px" align="center"/> | <img src="Glyphs/O-X.png" height="50px" align="center"/> | A duplication of the W glyph in MandoAF and Mando Alban's Bane BETA
 Y | <img src="Glyphs/CC-Y.png" height="50px" align="center"/> | <img src="Glyphs/N-Y.png" height="50px" align="center"/> | <img src="Glyphs/O-Y.png" height="50px" align="center"/> |
 Z | | <img src="Glyphs/N-Z.png" height="50px" align="center"/> | <img src="Glyphs/O-Z.png" height="50px" align="center"/> | |
+0 | | <img src="Glyphs/N-0.png" height="50px" align="center"/> | <img src="Glyphs/O-0.png" height="50px" align="center"/> | |
 1 | | <img src="Glyphs/N-1.png" height="50px" align="center"/> | <img src="Glyphs/O-1.png" height="50px" align="center"/> | |
 2 | | <img src="Glyphs/N-2.png" height="50px" align="center"/> | <img src="Glyphs/O-2.png" height="50px" align="center"/> | |
 3 | | <img src="Glyphs/N-3.png" height="50px" align="center"/> | <img src="Glyphs/O-3.png" height="50px" align="center"/> | |
@@ -88,7 +89,6 @@ Z | | <img src="Glyphs/N-Z.png" height="50px" align="center"/> | <img src="Glyph
 7 | | <img src="Glyphs/N-7.png" height="50px" align="center"/> | <img src="Glyphs/O-7.png" height="50px" align="center"/> | |
 8 | | <img src="Glyphs/N-8.png" height="50px" align="center"/> | <img src="Glyphs/O-8.png" height="50px" align="center"/> | |
 9 | | <img src="Glyphs/N-9.png" height="50px" align="center"/> | <img src="Glyphs/O-9.png" height="50px" align="center"/> | |
-0 | | <img src="Glyphs/N-0.png" height="50px" align="center"/> | <img src="Glyphs/O-0.png" height="50px" align="center"/> | |
 
 ## Screen References
 
