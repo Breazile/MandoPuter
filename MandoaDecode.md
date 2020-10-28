@@ -12,7 +12,7 @@ This page focuses on decoding the character sequence used in the TV series [The 
 <div align="center">
   <img src="MandoAF-charset.png" height="450px" align="center"/>
 </div>
-
+<br><br>
 
 If you look closely you will notice that the font used in the gauntlet is different from what was seen in the original Star Wars Series. At this point we lack a complete reference for the font, but we do know 14 characters from the [challenge coin](https://www.bobafettfanclub.com/multimedia/daily/1866/). 
 
