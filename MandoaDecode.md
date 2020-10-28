@@ -30,11 +30,15 @@ You can see the font decoded from the original Star Wars series over on the [Eri
 
 This font is useful in trying to decode new characters, or at least making an educated guess of which letter a new font character should be assigned to.
 
-## Off Screen References
+## Font References
 
 ![Image](ChallengeCoin.jpg)
 
 The [challenge coin](https://www.bobafettfanclub.com/multimedia/daily/1866/) was a big help in the creation of the new font. It has 14 characters listed and spells out "THE MANDALORIAN" and "THIS IS THE WAY"
+
+## Font Glyph Details
+
+The MandoPuter column shows the gliphs that I am using in the MandoPuter distribution and is the most accurate font that I am aware of.
 
 ABC | Coin | MandoPuter | 2004 | Notes
 --- | ---- | --- | --- | -----
@@ -83,6 +87,11 @@ Sequences from The Mandalorian episodes - work in progress coming soon
 
 Episode | From | To | Sequence | Notes
 --- | ---- | --- | --- | -----
+Episode #1 - The Mandalorian | 02:11 | 02:16 | ??? | Blury and a lot of motion. Display refresh vs camera frame rate artifacts
+Episode #1 - The Mandalorian | 02:22 | 02:29 | ??? | Blury and a lot of motion. Display refresh vs camera frame rate artifacts
+Episode #1 - The Mandalorian | 02:46 | 03:22 | ??? | Out of focus, but you can get some timing information on sequence changes
+Episode #1 - The Mandalorian | 02:22 | 02:29 | ??? | Blury and a lot of motion. Display refresh vs camera frame rate artifacts
+
 
 ### Disney Gallery Star Wars: The Mandalorian
 
@@ -93,7 +102,7 @@ Episode | From | To | Sequence | Notes
 Episode #3 - Cast | 03:59 | 04:01 | MLM JBM SAS JAS | Assuming the J glyph is correct. Video cuts away after the last sequence and might still be in transition
 Episode #3 - Cast | 04:09 | 04:13 | ??? ??? ??? ??? TRH ??? | Small text with some detail missing. Might yield some sequences
 Episode #3 - Cast | 04:29 | 04:33 | SAS JBM JRS SAS | Assuming the J glyph is correct. Very clear sequence
-Episode #3 - Cast | 04:40 | 04:41 | ??? | Hard to make out, display refresh vs camera frame rate artifact
+Episode #3 - Cast | 04:40 | 04:41 | ??? | Hard to make out, display refresh vs camera frame rate artifacts
 Episode #3 - Cast | 09:27 | 09:29 | ??? TRH | Small and slightly out of focus
 Episode #3 - Cast | 09:51 | 09:55 | ??? | Small and out of focus
 
