@@ -96,3 +96,10 @@ Work in progress, coming soon
 Thanks to Luke Dailey for starting the conversation and sparking renewed interest in finding the sequence. Also thanks to Luke for pointing me to the AurekFont fonts.
 
 Thanks to Aldo Andrei for pouring through video clips and putting together the most accurate sequence for the MandoPuter.
+
+Thanks to the many folks in the Mandalorian Facebook groups who are always willing to pitch in and help: 
+
+- [The Mandalorian (costume and prop builders)](https://www.facebook.com/groups/495779494260405)
+- [The MANDALORIAN- Din Djarin Costumers Guild](https://www.facebook.com/groups/594812984625855)
+- [The Mandalorian - Costuming Group](https://www.facebook.com/groups/1175965535908616)
+- [Mandalorian Costuming](https://www.facebook.com/groups/mandaloriancostuming)
