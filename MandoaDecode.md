@@ -52,7 +52,7 @@ The [challenge coin](https://www.bobafettfanclub.com/multimedia/daily/1866/) was
 The MandoPuter column shows the gliphs that I am using in the MandoPuter distribution and is the most accurate font that I am aware of.
 
 ABC | Coin | MandoPuter | 2004 | Notes
---- | ---- | --- | --- | -----
+:---: | :----: | :---: | :---: | :-----
 A | <img src="Glyphs/CC-A.png" height="50px" align="center"/> | <img src="Glyphs/N-A.png" height="50px" align="center"/> | <img src="Glyphs/O-A.png" height="50px" align="center"/> |
 B | | <img src="Glyphs/N-B.png" height="50px" align="center"/> | <img src="Glyphs/O-B.png" height="50px" align="center"/> | |
 C | | <img src="Glyphs/N-C.png" height="50px" align="center"/> | <img src="Glyphs/O-C.png" height="50px" align="center"/> | |
