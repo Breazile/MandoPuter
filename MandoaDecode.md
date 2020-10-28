@@ -90,8 +90,11 @@ Episode | From | To | Sequence | Notes
 Episode #1 - The Mandalorian | 02:11 | 02:16 | ??? | Blury and a lot of motion. Display refresh vs camera frame rate artifacts
 Episode #1 - The Mandalorian | 02:22 | 02:29 | ??? | Blury and a lot of motion. Display refresh vs camera frame rate artifacts
 Episode #1 - The Mandalorian | 02:46 | 03:22 | ??? | Out of focus, but you can get some timing information on sequence changes
-Episode #1 - The Mandalorian | 02:22 | 02:29 | ??? | Blury and a lot of motion. Display refresh vs camera frame rate artifacts
-
+Episode #1 - The Mandalorian | 07:05 | 07:06 | ??? | Out of focus
+Episode #1 - The Mandalorian | 10:55 | 10:58 | ??? | Out of focus
+Episode #1 - The Mandalorian | 11:39 | 11:43 | ??? | Out of focus, but you can get some timing information on sequence changes
+Episode #1 - The Mandalorian | 12:06 | 12:07 | ??? | Out of focus
+Episode #1 - The Mandalorian | 12:16 | 12:20 | ??? | Out of focus, but you can get some timing information on sequence changes
 
 ### Disney Gallery Star Wars: The Mandalorian
 
