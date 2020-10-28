@@ -95,6 +95,11 @@ Episode #1 - The Mandalorian | 10:55 | 10:58 | ??? | Out of focus
 Episode #1 - The Mandalorian | 11:39 | 11:43 | ??? | Out of focus, but you can get some timing information on sequence changes
 Episode #1 - The Mandalorian | 12:06 | 12:07 | ??? | Out of focus
 Episode #1 - The Mandalorian | 12:16 | 12:20 | ??? | Out of focus, but you can get some timing information on sequence changes
+Episode #1 - The Mandalorian | 13:02 | 13:04 | ??? | Out of focus
+Episode #1 - The Mandalorian | 18:20 | 18:40 | ??? | Out of focus
+Episode #1 - The Mandalorian | 19:24 | 19:35 | ??? | Out of focus
+Episode #1 - The Mandalorian | 24:09 | 24:38 | ??? | Out of focus, but you can get some timing information on sequence changes
+Episode #1 - The Mandalorian | 24:48 | 24:55 | ??? | Out of focus, but you can get some timing information on sequence changes
 
 ### Disney Gallery Star Wars: The Mandalorian
 
