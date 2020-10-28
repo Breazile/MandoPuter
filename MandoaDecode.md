@@ -49,7 +49,7 @@ This is the modified font sheet for the characters used in the MandoPuter OTF fi
 
 <div align="center">
   <a href="https://aurekfonts.github.io/?font=AlbansBane">
-    <img src="https://github.com/Breazile/MandoPuter/blob/master/Glyphs/MandoPuterFont.png" height="400px" align="center"/>
+    <img src="https://github.com/Breazile/MandoPuter/blob/master/Glyphs/MandoPuterFont.png" height="450px" align="center"/>
   </a>
 </div><br>
 
