@@ -67,7 +67,7 @@ Z | | ![Image](Glyphs/N-Z.png) | ![Image](Glyphs/O-Z.png)
 
 ## Screen References
 
-Disney Gallery Star Wars: The Mandalorian
+Gauntlet sequences seen in [Disney Gallery Star Wars: The Mandalorian](https://disneyplusoriginals.disney.com/show/disney-gallery-the-mandalorian). Timestamps are close, but may not be exact to your clip. It should get you close and you can go frame by frame if possible. ??? charaters mean I do not know what they are. Many shots are blurry or too far away to make out clearly.
 
 Episode | From | To | Sequence
 --- | ---- | --- | ---
@@ -79,6 +79,6 @@ Episode | From | To | Sequence
 #3 Directing | 09:51 | 09:55 | ???
 #3 Directing | 20:06 | 20:07 | ???
 
-## Decoded Sequences
+## Current MandoPuter Sequence
 
-bla bla bla
+TBD
