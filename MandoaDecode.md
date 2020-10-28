@@ -131,6 +131,11 @@ From | To | Sequence | Notes
 24:27 | 24:39 | TRH A?S | Out of focus
 24:48 | 24:53 | JBM MLM SAS AJS SAS | Scene is mirrored, out of focus, compare with Gallery episode #3
 
+#### Episode 3: The Sin
+From | To | Sequence | Notes
+:----: | :--: | :-------- | :-----
+06:29 | 06:35 | SAS TRH SAS ??? | Last sequence not clear
+
 ### Disney Gallery Star Wars: The Mandalorian
 
 Gauntlet sequences from behind the scenes footage in [Disney Gallery Star Wars: The Mandalorian](https://disneyplusoriginals.disney.com/show/disney-gallery-the-mandalorian). Timestamps are close, and should get you close to when the sequence starts. ??? charaters mean I do not know what they are. Many shots are blurry or too far away to make out clearly.
@@ -149,13 +154,19 @@ Episode | From | To | Sequence | Notes
 **Episode 2: The Child - 24:48**
 ```
 messages = [ "JBM", "MLM", "SAS", "AJS", "SAS"]
-delays =   [ 0.50,  0.84,  1.00,  0.35,  0.84 ]
+delays =   [  0.50,  0.84,  1.00,  0.35,  0.84]
+```
+
+**Episode 3: The Sin - 06:29**
+```
+messages = [ "SAS", "TRH", "SAS"]
+delays =   [  1.00,  0.67,  1.00]
 ```
 
 **Disney Gallery Star Wars: The Mandalorian episode #3 - 03:59**
 ```
 messages = [ "MLM", "JBM", "SAS", "JAS"]
-delays =   [ 0.75,  0.75,  0.650,  0.75 ]
+delays =   [  0.75,  0.75,  0.65, 0.75 ]
 ```
 
 ## Contributions
