@@ -150,6 +150,13 @@ From | To | Sequence | Notes
 21:21 | 21:23 | ??? TRH | 
 21:47 | 21:50 | ??? ??? | Various other short views in the rescue scene up to the whistling birds
 23:55 | 24:01 | ??? | 
+28:34 | 28:35 | ??? | 
+29:59 | 30:01 | TRH | 
+30:16 | 30:12 | TRH SAS MLM | SAS is shown for only 2 frames
+30:16 | 30:18 | DSC JAS ??? | Could be SAS instead of JAS
+30:43 | 30:49 | ??? ??? | 
+30:55 | 30:57 | ??? TRH ??? | 
+31:06 | 30:13 | ??? TRH ??? | Out of focus
 
 
 ### Disney Gallery Star Wars: The Mandalorian
