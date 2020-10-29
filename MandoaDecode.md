@@ -143,7 +143,14 @@ From | To | Sequence | Notes
 14:47 | 14:50 | ??? ??? ??? | The first time we see the Beskar gauntlet
 14:58 | 15:03 | ??? | Out of focus
 15:30 | 15:34 | ??? | Has some timing information
-15:51 | 16:02 | TRH | Good sequence to decode on a large TV
+15:51 | 16:02 | TRH ??? | Good sequence to decode on a large TV
+16:11 | 16:26 | ??? ??? | Has some timing information
+20:09 | 20:12 | ??? | 
+20:26 | 20:30 | JBM | 
+21:21 | 21:23 | ??? TRH | 
+21:47 | 21:50 | ??? ??? | Various other short views in the rescue scene up to the whistling birds
+23:55 | 24:01 | ??? | 
+
 
 ### Disney Gallery Star Wars: The Mandalorian
 
