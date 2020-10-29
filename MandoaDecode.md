@@ -173,12 +173,12 @@ From | To | Sequence | Notes
 10:27 | 10:28 | ??? |  Hard to make out, 2 strings
 10:44 | 10:45 | ??? |  Angle hard to make out
 12:49 | 12:51 | ??? |  Blurry and angled when clear shot
-13:17 | 13:19 | ??? |  Angle makes it hard to decipher. Cant tell if "twitch" cycling is video glitch or new sequence
+13:17 | 13:19 | ??? |  Angle makes it hard to decipher. Can't tell if "twitch" cycling is video glitch or new sequence
 13:26 | 13:27 | ??? |  
 14:47 | 14:47 | ??? |  Blurry until he stops his turn for about ~4 frames
 14:55 | 15:05 | ??? |  This would of been perfect had it not been for focus blur. You can make out the timing for what I believe might be the full sequence
 16:28 | 16:29 | ??? | 
-16:33 | 16:34 | ??? |  Few frames fisible with swing of hand
+16:33 | 16:34 | ??? |  Few frames visible with swing of hand
 17:08 | 17:10 | (JQS/SQS/JQJ?) DS(T/C?) SAS TRH MLM  | Quick cycle of 5 or 6 Ehns
 
 ### Disney Gallery Star Wars: The Mandalorian
