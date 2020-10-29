@@ -181,8 +181,8 @@ From | To | Sequence | Notes
 16:33 | 16:34 | ??? |  Few frames visible with swing of hand
 17:08 | 17:10 | (JQS/SQS/JQJ?) DS(T/C?) SAS TRH MLM  | Quick cycle of 5 or 6 Ehns
 17:45 | 17:48 | TLH JRS JAS(Ehn that lasts for about 0.17) SAS AJS TLH JAS | Yet another visible sequence. Here we can see the really short "twitch" from one Ehn to another before continuting the sequence
-18:21 | 18:26 | | Same as previous. There is a frame that the Mandoputer becomes too blurred to see. Assuming a consistent patterm, My best guess would be that the blurred Ehn is TLH followed by a visible MLM. Going back to Chapter 3, we can assume DCS and LBM follows
-18:41 | 18:43 | |
+18:21 | 18:26 | ??? | Same as previous. There is a frame that the Mandoputer becomes too blurred to see. Assuming a consistent patterm, My best guess would be that the blurred Ehn is TLH followed by a visible MLM. Going back to Chapter 3, we can assume DCS and LBM follows
+18:41 | 18:43 | ??? | Blurry
 18:47 | 19:00 | AJS JB(?)M JAS JB(?)M MLM JB(?)M AJS JB(?)M SAS DSC | We get a good and long shot of the mandoputer and its sequence. Its fairly clearn until the very end when the camera shifts focus
 22:10 | 22:16 | TLH JRS JAS SAS | (A lot of frames on this one are blurry the first few seconds) Yet another long take with the mandoputer visible. Too blurry to see but able to make out certain characters by looking at their rough shape and using previous Ehn sequences
 
