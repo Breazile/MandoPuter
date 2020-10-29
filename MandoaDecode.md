@@ -165,12 +165,12 @@ Gauntlet sequences from behind the scenes footage in [Disney Gallery Star Wars: 
 
 Episode | From | To | Sequence | Notes
 :-------: | :----: | :--: | :---------------- | :-----
-#3 | 03:59 | 04:01 | MLM JBM SAS JAS | Assuming the J glyph is correct. Video cuts away after the last sequence and might still be in transition
-#3 | 04:09 | 04:13 | ??? TRH ??? | Small text with some detail missing. Might yield some sequences
-#3 | 04:29 | 04:33 | SAS JBM JRS SAS | Assuming the J glyph is correct. Very clear sequence
-#3 | 04:40 | 04:41 | ??? | Hard to make out, display refresh vs camera frame rate artifacts
-#3 | 09:27 | 09:29 | ??? TRH | Small and slightly out of focus
-#3 | 09:51 | 09:55 | ??? | Small and out of focus
+#3 | 03:59 | 04:01 | MLM JBM SAS JAS | Assuming the J glyph is correct. Video cuts away after the last sequence and might still be in transition (Beskar)
+#3 | 04:09 | 04:13 | ??? TRH ??? | Small text with some detail missing. Might yield some sequences  (Beskar)
+#3 | 04:29 | 04:33 | SAS JBM JRS SAS | Assuming the J glyph is correct. Very clear sequence  (no Beskar)
+#3 | 04:40 | 04:41 | ??? | Hard to make out, display refresh vs camera frame rate artifacts  (Beskar)
+#3 | 09:27 | 09:29 | ??? TRH | Small and slightly out of focus  (Beskar)
+#3 | 09:51 | 09:55 | ??? | Small and out of focus  (Beskar)
 
 ## Current MandoPuter Sequences that have been decoded
 
