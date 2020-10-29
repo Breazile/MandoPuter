@@ -121,16 +121,16 @@ From | To | Sequence | Notes
 #### Episode 2: The Child
 From | To | Sequence | Notes
 :----: | :--: | :-------- | :-----
-02:44 | 02:48 | ?ET SAS TRH | Out of focus, best guess
+02:44 | 02:48 | DSC SAS TRH | Out of focus, best guess
 04:42 | 04:46 | ??? | Out of focus
 09:55 | 09:66 | ??? ??? | Out of focus, two sequences
-10:11 | 10:15 | ??? ??? | Out of focus, at least two sequences
+10:11 | 10:15 | SAS DSC SAS | Out of focus, at least three sequences
 10:21 | 10:24 | ??? ??? | Out of focus, at least two sequences
 13:29 | 13:37 | ??? ??? | Out of focus, at least two sequences
-17:04 | 17:05 | ??? | Out of focus
-17:27 | 17:30 | ??? ??? | Out of focus, at least two sequences
-21:32 | 21:37 | ??? ??? | Out of focus, at least two or three sequences
-24:27 | 24:39 | TRH A?S | Out of focus
+17:04 | 17:05 | ??? ??? A?? | Out of focus
+17:27 | 17:30 | ??? SAS DSC | Out of focus, at least two sequences
+21:32 | 21:37 | MLM ?RS TRH | Out of focus, at least two or three sequences
+24:27 | 24:39 | ??? TLH ACS | Out of focus
 24:48 | 24:53 | SAS LRS MLM SAS AJS SAS ASJ | Scene is mirrored
 
 #### Episode 3: The Sin
