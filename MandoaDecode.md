@@ -180,7 +180,8 @@ From | To | Sequence | Notes
 16:28 | 16:29 | ??? | 
 16:33 | 16:34 | ??? |  Few frames visible with swing of hand
 17:08 | 17:10 | (JQS/SQS/JQJ?) DS(T/C?) SAS TRH MLM  | Quick cycle of 5 or 6 Ehns
-17:45 | 17:48 | TLH JRS JAS (Ehn that lasts for about 0.17) AJS JRS | Here we can see the really short "twitch" from one Ehn to another before continuting the sequence
+17:45 | 17:48 | TLH JRS JAS(Ehn that lasts for about 0.17) SAS AJS TLH JAS | Yet another visible sequence. Here we can see the really short "twitch" from one Ehn to another before continuting the sequence
+18:21 | 18:26 | | Same as previous. There is a frame that the Mandoputer becomes too blurred to see. Assuming a consistent patterm, My best guess would be that the blurred Ehn is TLH followed by a visible MLM. Going back to Chapter 3, we can assume DCS and LBM follows
 
 ### Disney Gallery Star Wars: The Mandalorian
 
