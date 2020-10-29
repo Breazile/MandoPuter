@@ -96,6 +96,8 @@ Z | | <img src="Glyphs/N-Z.png" height="50px" align="center"/> | <img src="Glyph
 
 Sequences from [The Mandalorian](https://disneyplusoriginals.disney.com/show/the-mandalorian-season-two) episodes - work in progress coming soon. ??? characters means the glyphs have not been identified for the clip.
 
+Aldo Andrei has a series of [screen shot references](https://drive.google.com/drive/folders/1wWAuCdXD1zziuuL0JHsdwfN0YArSGwSH?fbclid=IwAR2J7ZZtnIAeWz4L0-GKN9WZldhnyJyeQexEbnaR8NvwbWtNvKTA75XlhL4) that he used to decipher the sequence.
+
 ### The Mandalorian Season 1
 
 #### Episode 1: The Mandalorian
