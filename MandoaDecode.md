@@ -131,7 +131,7 @@ From | To | Sequence | Notes
 17:27 | 17:30 | ??? ??? | Out of focus, at least two sequences
 21:32 | 21:37 | ??? ??? | Out of focus, at least two or three sequences
 24:27 | 24:39 | TRH A?S | Out of focus
-24:48 | 24:53 | JBM MLM SAS AJS SAS | Scene is mirrored, out of focus, compare with Gallery episode #3
+24:48 | 24:53 | SAS LRS MLM SAS AJS SAS ASJ | Scene is mirrored
 
 #### Episode 3: The Sin
 From | To | Sequence | Notes
@@ -205,8 +205,8 @@ Episode | From | To | Sequence | Notes
 
 **Episode 2: The Child - 24:48**
 ```
-messages = [ "JBM", "MLM", "SAS", "AJS", "SAS"]
-delays =   [  0.50,  0.84,  1.00,  0.35,  0.84]
+messages = [ "SAS", "LRS", "MLM", "SAS", "AJS", "SAS", "ASJ"]
+delays =   [  0.80,  0.25,  0.84,  1.00,  0.25,  0.80, 0.84 ]
 ```
 
 **Episode 3: The Sin - 06:29**
