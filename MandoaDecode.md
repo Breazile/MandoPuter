@@ -158,6 +158,15 @@ From | To | Sequence | Notes
 30:55 | 30:57 | ??? TRH ??? | 
 31:06 | 30:13 | ??? TRH ??? | Out of focus
 
+#### Episode 4: Sanctuary
+From | To | Sequence | Notes
+:----: | :--: | :-------- | :-----
+05:59 | 06:00 | ??? | 
+07:04 | 07:07 | ??? | 
+07:33 | 07:33 | ??? | 
+07:35 | 07:37 | ??? | 
+07:49 | 07:50 | ??? | Has some timing information
+07:55 | 07:58 | ??? | Has some timing information
 
 ### Disney Gallery Star Wars: The Mandalorian
 
