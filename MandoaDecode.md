@@ -136,6 +136,14 @@ From | To | Sequence | Notes
 :----: | :--: | :-------- | :-----
 06:29 | 06:35 | SAS TRH SAS ??? | Last sequence not clear
 08:21 | 08:26 | ??? | Out of focus
+08:46 | 08:55 | ??? | Out of focus
+09:19 | 09:23 | ??? | Out of focus, but you can get some timing information on sequence changes
+10:19 | 10:24 | ??? | Out of focus, but you can get some timing information on sequence changes
+11:22 | 11:30 | ??? | Out of focus, but you can get some timing information on sequence changes
+14:47 | 14:50 | ??? ??? ??? | The first time we see the Beskar gauntlet
+14:58 | 15:03 | ??? | Out of focus
+15:30 | 15:34 | ??? | Has some timing information
+15:51 | 16:02 | TRH | Good sequence to decode on a large TV
 
 ### Disney Gallery Star Wars: The Mandalorian
 
