@@ -188,6 +188,23 @@ From | To | Sequence | Notes
 18:47 | 19:00 | AJS JB(?)M JAS JB(?)M MLM JB(?)M AJS JB(?)M SAS DSC | We get a good and long shot of the mandoputer and its sequence. Its fairly clearn until the very end when the camera shifts focus
 22:10 | 22:16 |  | A lot of frames on this one are blurry the first few seconds) TLH JRS JAS SAS | Yet another long take with the mandoputer visible. Too blurry to see but able to make out certain characters by looking at their rough shape and using previous Ehn sequences
 
+#### Episode 5: The Gunslinger
+From | To | Sequence | Notes
+:----: | :--: | :-------- | :-----
+05:59 | 06:00 | ??? | 
+02:41 | 02:42 | SAS JAS JRS | Significant amount of motion blur. Some Ehns are discernable
+03:02 | 03:03 | ??? | Out of focus
+03:06 | 03:06 | | Lots of motion blur. ?SC can be made out. Since we know repeating Ehns are a thing, one can assume it is DSC
+04:20 | 04:22 | JAS | Cant tell if its just artifacting from the video or if the Ehns go over a JRS JAS(0.15) "twitch" cycle
+04:31 | 04:34 |  | Too blurry to make out. We see that the first Ehn transition takes about 0.30 while doing the "twitch/morph" effect. Second quick transition seems to take about the previously established 0.15
+09:23 | 09:23 | (AJS?) | Hard to make out
+09:26 | 09:27 |  | Out of focus
+18:10 | 18:10 |  | Hard to make out. Possibly MLM
+18:16 | 18:16 |  | Angle and motion blur make it hard to make out
+18:20 | 18:23 | J(?)AS (AJS?) | Angles and focus make it hard to make out. Some chracters discernable
+27:00 | 27:06 |  | Long shot. Distance and out of focus makes it hard to discern
+28:21 | 28:21 | ??? TLH | Lighting, angle, and focus makes it hard to discern
+
 ### Disney Gallery Star Wars: The Mandalorian
 
 Gauntlet sequences from behind the scenes footage in [Disney Gallery Star Wars: The Mandalorian](https://disneyplusoriginals.disney.com/show/disney-gallery-the-mandalorian). Timestamps are close, and should get you close to when the sequence starts. ??? charaters mean I do not know what they are. Many shots are blurry or too far away to make out clearly.
