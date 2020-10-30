@@ -163,30 +163,30 @@ From | To | Sequence | Notes
 #### Episode 4: Sanctuary
 From | To | Sequence | Notes
 :----: | :--: | :-------- | :-----
-05:59 | 06:00 | ??? | 
-07:04 | 07:07 | ??? | 
-07:33 | 07:33 | ??? | 
-07:35 | 07:37 | ??? | 
-07:49 | 07:50 | ??? | Has some timing information
-07:55 | 07:58 | ??? | Has some timing information
-08:10 | 08:12 | ??? | 
-10:05 | 10:08 | ??? |  Good reference for sequence timing/cycling
-10:14 | 10:16 | ??? |  Good reference for sequence timing/cycling
-10:27 | 10:28 | ??? |  Hard to make out, 2 strings
-10:44 | 10:45 | ??? |  Angle hard to make out
-12:49 | 12:51 | ??? |  Blurry and angled when clear shot
-13:17 | 13:19 | ??? |  Angle makes it hard to decipher. Can't tell if "twitch" cycling is video glitch or new sequence
-13:26 | 13:27 | ??? |  
-14:47 | 14:47 | ??? |  Blurry until he stops his turn for about ~4 frames
-14:55 | 15:05 | ??? |  This would of been perfect had it not been for focus blur. You can make out the timing for what I believe might be the full sequence
-16:28 | 16:29 | ??? | 
-16:33 | 16:34 | ??? |  Few frames visible with swing of hand
-17:08 | 17:10 | (JQS/SQS/JQJ?) DS(T/C?) SAS TRH MLM  | Quick cycle of 5 or 6 Ehns
-17:45 | 17:48 | TLH JRS JAS(Ehn that lasts for about 0.17) SAS AJS TLH JAS | Yet another visible sequence. Here we can see the really short "twitch" from one Ehn to another before continuting the sequence
-18:21 | 18:26 | ??? | Same as previous. There is a frame that the Mandoputer becomes too blurred to see. Assuming a consistent patterm, My best guess would be that the blurred Ehn is TLH followed by a visible MLM. Going back to Chapter 3, we can assume DCS and LBM follows
-18:41 | 18:43 | ??? | Blurry
+05:59 | 06:00 |  | 
+07:04 | 07:07 |  | 
+07:33 | 07:33 |  | 
+07:35 | 07:37 |  | 
+07:49 | 07:50 |  | Timing
+07:55 | 07:58 |  | Hard to make out, but timing
+08:11 | 08:11 |  |
+10:05 | 10:08 |  | Good reference for sequence timing/cycling
+10:14 | 10:16 |  | Good reference for sequence timing/cycling
+10:27 | 10:28 |  | Hard to make out, 2 strings
+10:44 | 10:45 |  | Angle hard to make out
+12:49 | 12:51 |  | Blurry and angled when clear shot
+13:17 | 13:19 |  | Angle makes it hard to decipher. Cant tell if "twitch" cycling is video glitch or new sequence
+13:26 | 13:27 |  | 
+14:47 | 14:47 |  | Blurry until he stops his turn for about ~4 frames
+14:55 | 15:05 |  | This would of been perfect had it not been for focus blur. You can make out the timing for what I believe might be the full sequence
+16:28 | 16:29 |  | 
+16:33 | 16:34 |  | Few frames fisible with swing of hand
+17:08 | 17:10 | (JQS/SQS/JQJ?) DS(T/C?) SAS TLH MLM  | Quick cycle of 5 or 6 Ehns
+17:45 | 17:48 | TLH JRS JAS(This is the Ehn that lasts for about 0.15) SAS AJS TLH JAS | Yet another visible sequence. Here we can see the really short "twitch" from one Ehn to another before continuting the sequence
+18:21 | 18:26 |  | Same as previous. There is a frame that the Mandoputer becomes too blurred to see. Assuming a consistent patterm, My best guess would be that the blurred Ehn is TLH followed by a visible MLM. Going back to Chapter 3, we can assume DCS and LBM follows
+18:41 | 18:43 |  | 
 18:47 | 19:00 | AJS JB(?)M JAS JB(?)M MLM JB(?)M AJS JB(?)M SAS DSC | We get a good and long shot of the mandoputer and its sequence. Its fairly clearn until the very end when the camera shifts focus
-22:10 | 22:16 | TLH JRS JAS SAS | (A lot of frames on this one are blurry the first few seconds) Yet another long take with the mandoputer visible. Too blurry to see but able to make out certain characters by looking at their rough shape and using previous Ehn sequences
+22:10 | 22:16 |  | A lot of frames on this one are blurry the first few seconds) TLH JRS JAS SAS | Yet another long take with the mandoputer visible. Too blurry to see but able to make out certain characters by looking at their rough shape and using previous Ehn sequences
 
 ### Disney Gallery Star Wars: The Mandalorian
 
