@@ -237,7 +237,7 @@ Episode | From | To | Sequence | Notes
 #3 | 09:27 | 09:29 | ??? TRH | Small and slightly out of focus  (Beskar)
 #3 | 09:51 | 09:55 | ??? | Small and out of focus  (Beskar)
 
-## Current MandoPuter Sequences that have been decoded
+## Current MandoPuter Sequences that have been decoded (work in progress)
 
 **Episode 2: The Child - 24:48**
 ```
