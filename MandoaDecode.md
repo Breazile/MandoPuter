@@ -101,6 +101,7 @@ Aldo Andrei has a series of [screen shot references](https://drive.google.com/dr
 ### The Mandalorian Season 1
 
 #### Episode 1: The Mandalorian
+Aldo's [chapter 1 reference photos](https://drive.google.com/drive/folders/1swK1esfEmthlURmXpM_0WOLcCqxhGoKq?fbclid=IwAR2J7ZZtnIAeWz4L0-GKN9WZldhnyJyeQexEbnaR8NvwbWtNvKTA75XlhL4)
 From | To | Sequence | Notes
 :----: | :--: | :-------- | :-----
 02:11 | 02:16 | ??? | Blury and a lot of motion. Display refresh vs camera frame rate artifacts
@@ -119,6 +120,7 @@ From | To | Sequence | Notes
 35:13 | 35:19 | ??? | Out of focus
 
 #### Episode 2: The Child
+Aldo's [chapter 2 reference photos](https://drive.google.com/drive/folders/19_joNALRXmZ0RZkLahTr4ymLmGqrgb8f?fbclid=IwAR2J7ZZtnIAeWz4L0-GKN9WZldhnyJyeQexEbnaR8NvwbWtNvKTA75XlhL4)
 From | To | Sequence | Notes
 :----: | :--: | :-------- | :-----
 02:44 | 02:48 | DSC SAS TRH | Out of focus, best guess
@@ -134,6 +136,7 @@ From | To | Sequence | Notes
 24:48 | 24:53 | SAS LRS MLM SAS AJS SAS ASJ | Scene is mirrored
 
 #### Episode 3: The Sin
+Aldo's [chapter 3 reference photos](https://drive.google.com/drive/folders/1eAsgTT-6jYLOxwtb3QXkWl923olwmWEJ?fbclid=IwAR2J7ZZtnIAeWz4L0-GKN9WZldhnyJyeQexEbnaR8NvwbWtNvKTA75XlhL4)
 From | To | Sequence | Notes
 :----: | :--: | :-------- | :-----
 06:29 | 06:35 | SAS TRH SAS ??? | Last sequence not clear
@@ -161,6 +164,7 @@ From | To | Sequence | Notes
 31:06 | 30:13 | ??? TRH ??? | Out of focus
 
 #### Episode 4: Sanctuary
+Aldo's [chapter 4 reference photos](https://drive.google.com/drive/folders/1jveO9QAg7G04ztGc1VbWdDoTZa8-FuQL?fbclid=IwAR2J7ZZtnIAeWz4L0-GKN9WZldhnyJyeQexEbnaR8NvwbWtNvKTA75XlhL4)
 From | To | Sequence | Notes
 :----: | :--: | :-------- | :-----
 05:59 | 06:00 |  | 
@@ -189,6 +193,7 @@ From | To | Sequence | Notes
 22:10 | 22:16 |  | A lot of frames on this one are blurry the first few seconds) TLH JRS JAS SAS | Yet another long take with the mandoputer visible. Too blurry to see but able to make out certain characters by looking at their rough shape and using previous Ehn sequences
 
 #### Episode 5: The Gunslinger
+Aldo's [chapter 5 reference photos](https://drive.google.com/drive/folders/1aXWwlyvjc-GVor2acgAN7btPjlr50DzW?fbclid=IwAR2J7ZZtnIAeWz4L0-GKN9WZldhnyJyeQexEbnaR8NvwbWtNvKTA75XlhL4)
 From | To | Sequence | Notes
 :----: | :--: | :-------- | :-----
 05:59 | 06:00 | ??? | 
@@ -204,6 +209,13 @@ From | To | Sequence | Notes
 18:20 | 18:23 | J(?)AS (AJS?) | Angles and focus make it hard to make out. Some chracters discernable
 27:00 | 27:06 |  | Long shot. Distance and out of focus makes it hard to discern
 28:21 | 28:21 | ??? TLH | Lighting, angle, and focus makes it hard to discern
+
+### The Mandalorian Season 2
+
+#### Episode 1: The Marshal
+Aldo's [chapter 9 reference photos](https://drive.google.com/drive/folders/1pJE7EFN99iIFcg8c4rAqC6mL6O8a86FN?fbclid=IwAR2J7ZZtnIAeWz4L0-GKN9WZldhnyJyeQexEbnaR8NvwbWtNvKTA75XlhL4)
+From | To | Sequence | Notes
+:----: | :--: | :-------- | :-----
 
 ### Disney Gallery Star Wars: The Mandalorian
 
