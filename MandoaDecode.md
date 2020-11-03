@@ -216,6 +216,13 @@ From | To | Sequence | Notes
 Aldo's [chapter 9 reference photos](https://drive.google.com/drive/folders/1pJE7EFN99iIFcg8c4rAqC6mL6O8a86FN?fbclid=IwAR2J7ZZtnIAeWz4L0-GKN9WZldhnyJyeQexEbnaR8NvwbWtNvKTA75XlhL4)
 From | To | Sequence | Notes
 :----: | :--: | :-------- | :-----
+02:40 | 02:48 | (CR)?M LBM SAS TLH LLR SAS D(R?)M JAS JSR JRS | Good walking shot towards the camera. Certain Ehns are not as readable due to the angle and motion blur caused by the sway of his arm
+05:15 | 05:18 | JAS LBM AJS ?SC(Assume DSC) JAS LBM | Short shot, some characters get cut off but we can use previous known Ehns to complete these
+05:25 | 05:36 | DJN JAS DSJ TLH SAS JRS JSR JRS JSR GWL DR(?)M JRS T(?)LH SAS JRS (DRM?) | We get a decent shot, although out of focus, we can still make out a few Ehns. Towards the end, there is a new sequence we have not seen before. Certain characters appear incomplete and cut as seen on the 0525TLHcorrupt screenshot and 0525Unk. This could also be due to angle and out of focus
+10:21 | 10:26 | TLH JKN JBM JRS JKN DCN GWL JRS DCW | Good shot, we can see new Ehns that confirm some in previous time stamp
+10:48 | 10:51 | DCN TLH GWL JSR | 
+11:19 | 11:19 | ??? DCW SAS JSR | Pan up shot. Unk Ehn before transitioning to DCW
+14:25 | 14:28 | JRS JRF AJS JRN | Here we can see how JRF has a substancially longer "nose" than when JRN. Second opinions on this might be needed
 
 ### Disney Gallery Star Wars: The Mandalorian
 
