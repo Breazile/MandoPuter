@@ -210,6 +210,16 @@ From | To | Sequence | Notes
 27:00 | 27:06 |  | Long shot. Distance and out of focus makes it hard to discern
 28:21 | 28:21 | ??? TLH | Lighting, angle, and focus makes it hard to discern
 
+#### Episode 6: The Prisoner
+Aldo's [chapter 6 reference photos](https://drive.google.com/drive/folders/1neDV-l2z18Iqpp8I6YA0VJlvLic9xJUG?fbclid=IwAR2J7ZZtnIAeWz4L0-GKN9WZldhnyJyeQexEbnaR8NvwbWtNvKTA75XlhL4)
+From | To | Sequence | Notes
+:----: | :--: | :-------- | :-----
+03:51 | 03:58 | ??? | 
+13:56 | 14:00 | ??? | Can see half of the characters, but they are in focus
+15:42 | 15:44 | ??? | 
+29:22 | 29:24 | ??? | 
+29:57 | 29:58 | ??? | 
+
 ### The Mandalorian Season 2
 
 #### Episode 1: The Marshal
