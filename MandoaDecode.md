@@ -44,6 +44,10 @@ This font is useful in trying to decode new characters, or at least making an ed
 
 The [challenge coin](https://www.bobafettfanclub.com/multimedia/daily/1866/) was a big help in the creation of the new font. It has 14 characters listed and spells out "THE MANDALORIAN" and "THIS IS THE WAY"
 
+<div align="center">
+  <img src="BobaFett%20Keyboard.jpg" height="200px" align="center"/>
+</div><br>
+
 [Star Wars GMK Boba Fett Keycap Set](https://novelkeys.xyz/products/gmk-boba-fett?fbclid=IwAR33aMgfqw7RKZtgfCL-GTCeDufoT0leXN_aPK07IK3nIoEyq8Nl-IeSJ9g) is officially licensed, and has the full alphabet and numerals. 
 
 ## Font Glyph Details
