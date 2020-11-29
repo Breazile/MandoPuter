@@ -84,7 +84,7 @@ Feather Pin | LCD Pin | ItsyBitsy Pin
 ------------ | ------------- | ------------
 3V | Vin (do not use 3V) | 3V
 GND | GND | G (also Battery-)
-CLK | SCK | SCK
+SCK | SCK | SCK
 MO | MOSI | MO
 5 | RST or RESET | 4
 6 | TFTCS or TFT_CS | 2
