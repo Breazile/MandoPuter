@@ -29,7 +29,7 @@ I have a modified version of the MandoAF font with the corrected L glyph (upside
 ## Original Series Font
 
 <div align="center">
-  <img src="2004Font.jpg" width="250px" align="center"/>
+  <img src="2004Font.jpg" width="350px" align="center"/>
 </div><br>
 
 You can see the font decoded from the original Star Wars series over on the [Erikstormtrooper website](http://www.erikstormtrooper.com/mandalorian.htm). It was decoded from the 2004 Star Wars trilogy DVD set.
