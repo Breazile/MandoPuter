@@ -58,7 +58,7 @@ This is the modified font sheet for the characters used in the [MandoPuter Font]
 </div><br>
 
 ABC | Coin | MandoAF | 2004 | Notes
-:---: | :----: | :---: | :-------: | :---: | :-----
+:---: | :----: | :---: | :-------: | :-----
 A | <img src="Glyphs/CC-A.png" height="50px" align="center"/> | <img src="Glyphs/N-A.png" height="50px" align="center"/> | <img src="Glyphs/O-A.png" height="50px" align="center"/> |
 B | | <img src="Glyphs/N-B.png" height="50px" align="center"/> | <img src="Glyphs/O-B.png" height="50px" align="center"/> | |
 C | | <img src="Glyphs/N-C.png" height="50px" align="center"/> | <img src="Glyphs/O-C.png" height="50px" align="center"/> | |
