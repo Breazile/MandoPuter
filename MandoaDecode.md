@@ -18,11 +18,11 @@ If you look closely you will notice that the font used in the gauntlet is differ
 There are a couple of alternate fonts being made that closely match the new type style. They are over on [AurekFonts](https://aurekfonts.github.io/):
 
 [MandoAF](https://aurekfonts.github.io/?font=MandoAF) (recently updated and accurate)
-[Mando Alban's Bane BETA](https://aurekfonts.github.io/?font=AlbansBane) (the L glyph is not consistent with the challenge coin L)
+[Mando Alban's Bane BETA](https://aurekfonts.github.io/?font=AlbansBane) (the J, L, X glyphs are not accurate)
 
 The MandoAF font is based on the [Star Wars: The Mandalorian: The Ultimate Visual Guide](https://starwars.fandom.com/wiki/Star_Wars:_The_Mandalorian:_The_Ultimate_Visual_Guide), and has better typeface spacing compared to Mando Alban's Bane (at least for MandoPuter Use). 
 
-I have a modified version of the MandoAF font with the corrected L glyph (upside down V glyph which is consistent with the 2004 font). I call it the [MandoPuter Font](https://github.com/Breazile/MandoPuter/blob/master/MandoPuter.otf). In addition, I have updated the J glyph to an upside down version of the 8 glyph (same as the current L glyph). The glyph was seen on a gauntlet, but we do not know which character this is assigned to. J is my best guess looking at the 2004 font, and was a duplicate of the I glyph in the MandoAF font anyway. As of 12/1 the [MandoAF font](https://aurekfonts.github.io/?font=MandoAF) has been updated and is accurate.
+I have a modified version of the MandoAF font with the corrected glyphs. I call it the [MandoPuter Font](https://github.com/Breazile/MandoPuter/blob/master/MandoPuter.otf). As of 12/1 the [MandoAF font](https://aurekfonts.github.io/?font=MandoAF) has been updated and is accurate, so the MandoPuter font is not really needed any longer.
 
 ## Original Series Font
 
@@ -68,9 +68,9 @@ F | | <img src="Glyphs/N-F.png" height="50px" align="center"/> | <img src="Glyph
 G | | <img src="Glyphs/N-G.png" height="50px" align="center"/> | <img src="Glyphs/O-G.png" height="50px" align="center"/> | |
 H | <img src="Glyphs/CC-H.png" height="50px" align="center"/> | <img src="Glyphs/N-H.png" height="50px" align="center"/> | <img src="Glyphs/O-H.png" height="50px" align="center"/> |
 I | <img src="Glyphs/CC-I.png" height="50px" align="center"/> | <img src="Glyphs/N-I.png" height="50px" align="center"/> | <img src="Glyphs/O-I.png" height="50px" align="center"/> |
-J | | <img src="Glyphs/N-J.png" height="50px" align="center"/> | <img src="Glyphs/O-J.png" height="50px" align="center"/> | Consistent with the licensed [Boba Fett keyset](https://novelkeys.xyz/products/gmk-boba-fett?fbclid=IwAR33aMgfqw7RKZtgfCL-GTCeDufoT0leXN_aPK07IK3nIoEyq8Nl-IeSJ9g). MandoAF and Mando Alban's Bane BETA uses a duplication of the I glyph
+J | | <img src="Glyphs/N-J.png" height="50px" align="center"/> | <img src="Glyphs/O-J.png" height="50px" align="center"/> | 
 K | | <img src="Glyphs/N-K.png" height="50px" align="center"/> | <img src="Glyphs/O-K.png" height="50px" align="center"/> | |
-L | <img src="Glyphs/CC-L.png" height="50px" align="center"/> | <img src="Glyphs/N-L.png" height="50px" align="center"/> | <img src="Glyphs/O-L.png" height="50px" align="center"/> | Consistent with the licensed [Boba Fett keyset](https://novelkeys.xyz/products/gmk-boba-fett?fbclid=IwAR33aMgfqw7RKZtgfCL-GTCeDufoT0leXN_aPK07IK3nIoEyq8Nl-IeSJ9g). Glyph does not match the challenge coin in MandoAF and Mando Alban's Bane BETA
+L | <img src="Glyphs/CC-L.png" height="50px" align="center"/> | <img src="Glyphs/N-L.png" height="50px" align="center"/> | <img src="Glyphs/O-L.png" height="50px" align="center"/> | 
 M | <img src="Glyphs/CC-M.png" height="50px" align="center"/> | <img src="Glyphs/N-M.png" height="50px" align="center"/> | <img src="Glyphs/O-M.png" height="50px" align="center"/> |
 N | <img src="Glyphs/CC-N.png" height="50px" align="center"/> | <img src="Glyphs/N-N.png" height="50px" align="center"/> | <img src="Glyphs/O-N.png" height="50px" align="center"/> |
 O | <img src="Glyphs/CC-O.png" height="50px" align="center"/> | <img src="Glyphs/N-O.png" height="50px" align="center"/> | <img src="Glyphs/O-O.png" height="50px" align="center"/> |
@@ -82,7 +82,7 @@ T | <img src="Glyphs/CC-T.png" height="50px" align="center"/> |  <img src="Glyph
 U | | <img src="Glyphs/N-U.png" height="50px" align="center"/> | <img src="Glyphs/O-U.png" height="50px" align="center"/> | |
 V | | <img src="Glyphs/N-V.png" height="50px" align="center"/> | <img src="Glyphs/O-V.png" height="50px" align="center"/> | |
 W | <img src="Glyphs/CC-W.png" height="50px" align="center"/> | <img src="Glyphs/N-W.png" height="50px" align="center"/> | <img src="Glyphs/O-W.png" height="50px" align="center"/> |
-X | | <img src="Glyphs/MP-X.png" height="50px" align="center"/> | <img src="Glyphs/O-X.png" height="50px" align="center"/> | A duplication of the W glyph in MandoAF and Mando Alban's Bane BETA. I updated the character, compare with the licensed [Boba Fett keyset](https://novelkeys.xyz/products/gmk-boba-fett?fbclid=IwAR33aMgfqw7RKZtgfCL-GTCeDufoT0leXN_aPK07IK3nIoEyq8Nl-IeSJ9g)
+X | | <img src="Glyphs/MP-X.png" height="50px" align="center"/> | <img src="Glyphs/O-X.png" height="50px" align="center"/> | 
 Y | <img src="Glyphs/CC-Y.png" height="50px" align="center"/> | <img src="Glyphs/N-Y.png" height="50px" align="center"/> | <img src="Glyphs/O-Y.png" height="50px" align="center"/> |
 Z | | <img src="Glyphs/N-Z.png" height="50px" align="center"/> | <img src="Glyphs/O-Z.png" height="50px" align="center"/> | |
 0 | | <img src="Glyphs/N-0.png" height="50px" align="center"/> | <img src="Glyphs/O-0.png" height="50px" align="center"/> | 
