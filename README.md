@@ -69,8 +69,8 @@ That's it, no need to write any code or use any other fancy tools. I have the so
 
 ### 1. Feather / ItsyBitsy Setup
 
-- Install CircuitPython V4, which you can get from [here](https://circuitpython.org/board/feather_m4_express/) and there is a handy guide on [installing CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython)
-- The 1.3" OLED driver requires CircuitPython V5 (currently in beta), and will not work with V4
+- Install CircuitPython V6, which you can get from [here](https://circuitpython.org/board/feather_m4_express/) and there is a handy guide on [installing CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython)
+- The 1.3" OLED driver requires CircuitPython V5 or newer, and will not work with V4
 
 Setup the Feather M4 first before you start soldering anything. Make sure the basics work just in case you damage the board during soldering. The primary guide to the Feather is [here](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51), but you can skip ahead to the [CircuitPython setup](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython). Plugging the Feather into USB will power the board, you don't need a battery yet. If you have the battery connected when powered via USB it will charge. Power management details are [here](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/power-management). Do not use alkaline or NiMH batteries and connect to the battery port - this will destroy the LiPoly charger and there's no way to disable the charger. Do not use 7.4V RC batteries on the battery port - this will destroy the board.
 
@@ -132,6 +132,23 @@ The font used on the show is different from the font in the original Star Wars m
 Adafruit has a guide on how to convert TTF or OTF fonts to BDF (bitmap) fonts that MandoPuter uses. [Custom Fonts for CircuitPython Displays](https://learn.adafruit.com/custom-fonts-for-pyportal-circuitpython-display/conversion)
 
 Maybe we will find hidden meaning in the sequence. Mandalorian language reference here : https://www.mandoa.org/
+
+## Troubleshooting
+
+If you do not see anything on the display, check the onboard LED to see if the code is running properly. You should see the LED go purple during initialization, and then green, yellow, or red after that to indicate a battery voltage (ItsyBitsy does not measure the battery). If you see a blue flashing LED then there is an error in the code. If that happens try updating CircuitPython, and extract all of the files from the ZIP release to the CIRCUITPY drive. You might also have an error in the code (code.py). Get things running where you see the purple LED before moving on to troubleshooting the LCD.
+
+If you are not using an Adafruit battery then you need to check the polarity of the battery wiring. The black wire should be closest to the USB connector, see the picture below.
+
+![Image](BatteryWiring.jpg)
+
+You can also power the board from the USB port, so try running it with the battery removed to isolate a battery related problem.
+
+Other brands of LCDs may require different polarity in the SPI communication signaling. There are 4 different options that you can try if you are not using an Adafruit display. By default the Adafruit polarity is selected. You can try commenting Adafruit, and uncommenting one of the other three. Only one should be active at a time (Lines starting with # are commented out). Try Alt1, Alt2, or Alt3 to see if that helps, I know of at least one case where we needed Alt1 selected to get the LCD to work.
+
+SPI_COM   = "Adafruit"                                # SPI bus polarity=0 and phase=0 for an Adafruit LCD
+#SPI_COM   = "Alt1"                                    # SPI bus polarity=1 and phase=0 for an alternate brand LCD
+#SPI_COM   = "Alt2"                                    # SPI bus polarity=1 and phase=1 for an alternate brand LCD
+#SPI_COM   = "Alt3"                                    # SPI bus polarity=0 and phase=1 for an alternate brand LCD
 
 ## Want to know more?
 
