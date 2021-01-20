@@ -140,12 +140,13 @@ If you do not see anything on the display, check the onboard LED to see if the c
 If you are not using an Adafruit battery then you need to check the polarity of the battery wiring. The black wire should be closest to the USB connector, see the picture below.
 
 <div align="center">
-  <img src="BatteryWiring.jpg" height="200px" align="center"/>
+  <img src="BatteryWiring.jpg" height="300px" align="center"/>
 </div>
 
 You can also power the board from the USB port, so try running it with the battery removed to isolate a battery related problem.
 
 Other brands of LCDs may require different polarity in the SPI communication signaling. There are 4 different options that you can try if you are not using an Adafruit display. By default the Adafruit polarity is selected. You can try commenting Adafruit, and uncommenting one of the other three. Only one should be active at a time (Lines starting with # are commented out). Try Alt1, Alt2, or Alt3 to see if that helps, I know of at least one case where we needed Alt1 selected to get the LCD to work.
+
 
 ```
 SPI_COM   = "Adafruit"                                # SPI bus polarity=0 and phase=0 for an Adafruit LCD
@@ -165,4 +166,6 @@ Check out this [getting started guide](https://learn.adafruit.com/welcome-to-cir
 
 You should be ready to go. The system should run once the file is saved, and you should see the font look like this:
 
-![Image](MandoPuter.jpg)
+<div align="center">
+  <img src="MandoPuter.jpg" height="300px" align="center"/>
+</div>
