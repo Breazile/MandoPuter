@@ -69,7 +69,7 @@ That's it, no need to write any code or use any other fancy tools. I have the so
 
 ### 1. Feather / ItsyBitsy Setup
 
-- They changed the libraries in CircuitPython V7, so you will need to install it to use my latest release [here](https://circuitpython.org/board/feather_m4_express/) and there is a handy guide on [installing CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython)
+- They changed the libraries in CircuitPython V7, so you will need to install it to use my latest [release](MandoPuter.zip) download CircuitPython V7 [here](https://circuitpython.org/board/feather_m4_express/) and there is a handy guide on [installing CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython)
 - If you have an older MandoPuter Install CircuitPython V6, which you can get from [here](https://adafruit-circuit-python.s3.amazonaws.com/bin/feather_m4_express/en_GB/adafruit-circuitpython-feather_m4_express-en_GB-6.3.0.uf2) 
 - The 1.3" OLED driver requires CircuitPython V5 or newer, and will not work with V4
 
