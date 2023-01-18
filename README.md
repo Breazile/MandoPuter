@@ -3,7 +3,7 @@
 
 A basic electronics system that will display Mandalorian characters on a small display (I'm paying homage to Lego Batman with the name "Puter"). Use this as a starting point for adding displays to your costume (like a gauntlet). Feel free to copy the design, modify it, or make feature requests. 
 
-If you need help, have questions or feature requests please click on the "Issues" link near the top of the page. File an issue and I'll receive an email notification.
+If you need help, have questions or feature requests please click on the [Issues](https://github.com/Breazile/MandoPuter/issues) link near the top of the page. File an issue and I'll receive an email notification.
 
 ## Contents
 * [Improvements in V2](README.md#Improvements-in-V2)
@@ -50,7 +50,7 @@ If you need help, have questions or feature requests please click on the "Issues
     * [Adafruit ItsyBitsy RP2040](https://www.adafruit.com/product/4888)
     * [Raspberry Pi Pico RP2040](https://www.adafruit.com/product/4864) alternate sources [here](https://www.raspberrypi.com/products/raspberry-pi-pico/)
 3) 3.7V LiPoly Battery, [500 mAh](https://www.adafruit.com/product/1578) or [1200 mAh](https://www.adafruit.com/product/258) are good choices. You can also use a [USB battery bank](https://www.amazon.com/Portable-Battery-Charger-Cell-Phones/dp/B07K6HJTK2/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.7970387d-6fd7-44b1-a2dd-2355f5d39187%3Aamzn1.sym.7970387d-6fd7-44b1-a2dd-2355f5d39187&crid=1XF8AIUL7F3WS&cv_ct_cx=slim+USB+battery+bank&keywords=slim+USB+battery+bank&pd_rd_i=B07K6HJTK2&pd_rd_r=f0075ac7-b9a9-4d2d-b62b-926fe73d3531&pd_rd_w=UIgUa&pd_rd_wg=ehYME&pf_rd_p=7970387d-6fd7-44b1-a2dd-2355f5d39187&pf_rd_r=PH8V06K848Y6G34A6ZQW&qid=1674009046&sprefix=slim+usb+battery+bank%2Caps%2C145&sr=1-37-bb4842f6-7db0-410d-8e58-ed475f3f7b54-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVkNUWk44VVE5RkRBJmVuY3J5cHRlZElkPUEwNTEyNDk4MUNCVk1KVFQ3OTRaWSZlbmNyeXB0ZWRBZElkPUEwOTQzNzQxMTZLMTVLMDNEVExKUiZ3aWRnZXROYW1lPXNwX3NlYXJjaF90aGVtYXRpYyZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) and power the board via the USB port (battery level monitoring not supported through USB power).
-4) Optional [Backpack Add-On](https://www.adafruit.com/product/2124) if you are using an ItsyBitsy or a Raspberry Pi and you want to connect a LiPoly batery to them. This will also charge the battery when the USB port has power. This is not needed if you plan to power the bord from a USB power pack.
+4) Optional [Backpack Add-On](https://www.adafruit.com/product/2124) if you are using an ItsyBitsy or a Raspberry Pi and you want to connect a LiPoly battery to them. This will also charge the battery when the USB port has power. This is not needed if you plan to power the board from a USB power pack.
 5) Small Gauge wire. I use 26 gauge [silicone 4 conductor wire](https://www.amazon.com/dp/B099WBRY74?ref=ppx_yo2ov_dt_b_product_details&th=1) 
 6) Optional [Switch](https://www.adafruit.com/product/3064) for a LiPoly battery. Also available at [Mouser](https://www.mouser.com/ProductDetail/Adafruit/3064?qs=%2Fha2pyFaduidPXPXSuFTAy6NIltFKQj2aLtKxFq%252BSwSQ4g6E%2F8SgsA%3D%3D&fbclid=IwAR3gUkhB0XSWHV8Blz79Bzu3XQIYsgX0tw-0LRotc9LCteHGUVw9kJngqcI) (thanks Aldo Andrei for the find)
 
@@ -66,7 +66,7 @@ Board | CPU & RAM | Flash storage | Battery Connector | Battery Charger | Fuel G
 
 \* WiFi & Bluetooth are currently not used, but considering Bluetooth in the future.
 
-Biger RAM and flash storage space means you can add bigger graphics to the startup sequence. When loading those images it will attempt to load in RAM. If there is not enough RAM then it will load directly from flash to the screen which is slower (loos like a wipe effect).
+Bigger RAM and flash storage space means you can add bigger graphics to the startup sequence. When loading those images it will attempt to load in RAM. If there is not enough RAM then it will load directly from flash to the screen which is slower (looks like a wipe effect).
 
 The ESP32-S3 Feather has a built-in LiPoly battery fuel gauge which monitors the battery and can give an accurate level of charge (and currently has a [bug](https://github.com/adafruit/circuitpython/issues/6311)). All other boards (except Feather M4 Express) need an additional jumper wire to measure the LiPoly battery voltage and is a rough approximation of battery level (because LiPoly batteries are relatively flat when discharging).
 
@@ -118,14 +118,14 @@ CircuitPython v8.0.0-Beta6 is the latest release when I wrote created V2 (your b
 * Adafruit ItsyBitsy M4 Express [MandoPuter Release](Releases/ItsyBitsyM4Beskar.zip)
 * Adafruit ItsyBitsy RP2040 [MandoPuter Release](Releases/ItsyBitsyRP2040S3Beskar.zip)
 * Raspberry Pi Pico RP2040 [MandoPuter Release](Releases/RaspberryPiPicoRP2040Beskar.zip)
-* 
-Update your board and install the Mandoputer ZIP file before you start soldering anything. Make sure the basics work just in case you damage the board during soldering. Plugging the Feather into USB will power the board, you don't need a battery yet. If you have the battery connected when powered via USB it will charge. Do not use alkaline or NiMH batteries and connect to the battery port - this will destroy the LiPoly charger and there's no way to disable the charger. Do not use 7.4V RC batteries on the battery port - this will destroy the board. If you do not have a LiPoly battery then consider using a USB power bank.
+
+Update your board and install the Mandoputer ZIP file before you start soldering anything. Make sure the basics work just in case you damage the board during soldering. Plugging the Feather into USB will power the board, you don't need a battery yet. If you have the battery connected when powered via USB it will charge (if your board has a charger). Do not use alkaline or NiMH batteries and connect to the battery port - this will destroy the LiPoly charger and there's no way to disable the charger. Do not use 7.4V RC batteries on the battery port - this will destroy the board. If you do not have a LiPoly battery then consider using a USB power bank.
 
 When you plug the board into your computer, it should show up just like a USB key and you copy file to it in the same way. No need to download anything, drag and drop.
 
 ### 2. Customize options
 
-All of the configuration options are located in the file called code.py (in the ZIP file you downloaded). It is also located in the root directory of your board once you connect it to your computer. You can edit it with any text editor, or you can download a nice program called [Mu](https://learn.adafruit.com/welcome-to-circuitpython/installing-mu-editor). More details about Mu located [here](https://learn.adafruit.com/welcome-to-circuitpython/installing-mu-editor). Edit the file before you copy it, or directly from the CIRCUITPY drive. You'll be commenting some lines out, and uncommenting others. A comment is a line that starts with a # character.
+All of the configuration options are located in the file called code.py (in the ZIP file you downloaded). Code.py should be located in the root directory of your board once you connect it to your computer. You can edit it with any text editor, or you can download a nice program called [Mu](https://learn.adafruit.com/welcome-to-circuitpython/installing-mu-editor). More details about Mu located [here](https://learn.adafruit.com/welcome-to-circuitpython/installing-mu-editor). Edit the file before you copy it, or directly from the CIRCUITPY drive. You'll be commenting some lines out, and uncommenting others. A comment is a line that starts with a `#` character.
 
 The board and display types should already be setup if you downloaded the correct ZIP file. The contents of those ZIP files are all basically the same, the difference is in the board and display configurations so you don't have to set those up.
 
@@ -340,6 +340,12 @@ If you are not using an Adafruit battery then you need to check the polarity of 
 <div align="center">
   <img src="Images/BatteryPolarity.jpg" height="200px" align="center"/>
 </div>
+
+##### Jumper for monitoring battery voltage
+
+The ItsyBitsy and Raspberry Pi boards need an extra jumper wire to read the LiPoly battery voltage.
+
+Currently making the wiring graphics, I'll post them soon
 
 ## Latest Mandalorian Font
 
