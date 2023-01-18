@@ -349,9 +349,15 @@ If you are not using an Adafruit battery then you need to check the polarity of 
 
 ##### Jumper for monitoring battery voltage
 
-The ItsyBitsy and Raspberry Pi boards need an extra jumper wire to read the LiPoly battery voltage.
+The ItsyBitsy and Raspberry Pi boards need an extra jumper wire to read the LiPoly battery voltage. Change the `BATTERY_MON` setting to 1 to enable reading the battery voltage and display the low battery icon.
 
-Currently making the wiring graphics, I'll post them soon
+Here are the jumper wire locations for the ItsyBitsy M4 Express, ItsyBitsy RP2040, and Raspberry Pi Pico boards
+
+<div align="center">
+  <img src="Images/ItsyBitsyM4BatteryMon.jpg" height="100px" align="center"/>
+  <img src="Images/ItsyBitsyRP2040BatteryMon.jpg" height="100px" align="center"/>
+  <img src="Images/RaspberryBatteryMon.jpg" height="100px" align="center"/>
+</div>
 
 ## Latest Mandalorian Font
 
