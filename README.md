@@ -106,6 +106,9 @@ CircuitPython v8.0.0-Beta6 is the latest release when I wrote created V2 (your b
 * Raspberry Pi Pico RP2040 [CircuitPython download page](https://circuitpython.org/board/raspberry_pi_pico/). Instructions for [installing CurcuitPython](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython). You'll need a Micro USB  cable
 
 #### Mandoputer ZIP file downloads for Pre-Beskar displays (1.14")
+
+*These files were tested with CircuitPython 8.0.0-beta.6*
+
 * Adafruit ESP32-S3 Feather [MandoPuter Release](Releases/ESP32-S3Pre-Beskar.zip)
 * Adafruit Feather M4 Express [MandoPuter Release](Releases/FeatherM4Pre-Beskar.zip)
 * Adafruit ItsyBitsy M4 Express [MandoPuter Release](Releases/ItsyBitsyM4Pre-Beskar.zip)
@@ -113,6 +116,9 @@ CircuitPython v8.0.0-Beta6 is the latest release when I wrote created V2 (your b
 * Raspberry Pi Pico RP2040 [MandoPuter Release](Releases/RaspberryPiPicoRP2040Pre-Beskar.zip)
 
 #### Mandoputer ZIP file downloads for Beskar displays (1.3")
+
+*These files were tested with CircuitPython 8.0.0-beta.6*
+
 * Adafruit ESP32-S3 Feather [MandoPuter Release](Releases/ESP32-S3Beskar.zip)
 * Adafruit Feather M4 Express [MandoPuter Release](Releases/FeatherM4Beskar.zip)
 * Adafruit ItsyBitsy M4 Express [MandoPuter Release](Releases/ItsyBitsyM4Beskar.zip)
