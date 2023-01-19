@@ -35,6 +35,7 @@ If you need help, have questions or feature requests please click on the [Issues
 
 * Deep sleep - command the board to sleep for a certain amount of time (or until an external button is pressed)
 * Bluetooth - I'm looking into Bluetooth features once Adafruit has completed development
+* Audio - playback of audio files (WAV)
 * Evaluating board [Adafruit Feather RP2040](https://www.adafruit.com/product/4884)
 * Evaluating board [Adafruit ItsyBitsy nRF52840 Express - Bluetooth LE](https://www.adafruit.com/product/4481)
 
