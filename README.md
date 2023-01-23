@@ -210,6 +210,8 @@ NAME_COLOR     = 0x00FF00               # Green on black (you can chose colors h
 NAME_HOLD      = 3.0                    # How many seconds to display the name
 ```
 
+Please follow this [guide](https://learn.adafruit.com/custom-fonts-for-pyportal-circuitpython-display/overview) if you would like to create a custom font.
+
 #### Banner graphics at startup
 
 You can display up to 2 graphics at startup and you need to specify the file names and how long to display the image(s). CircuitPython supports uncompressed BMP files (8 bit indexed color). There is currently a bug with displaying compressed BMP files. You can convert image files using Photoshop or Gimp, and [this](https://learn.adafruit.com/matrix-portal-flow-visualizer/creating-bitmaps) page shows an example creating a BMP with Gimp. Copy your custom BMP file to the root of the CIRCUITPY drive. Some boards have limited space, so you might need to pick an image with fewer color changes. The Pre-Beskar display is 240 wide by 135 tall, and the Beskar display is 240 x 240.
