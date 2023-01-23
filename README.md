@@ -126,6 +126,12 @@ CircuitPython v8.0.0-Beta6 is the latest release when I wrote created V2 (your b
 * Adafruit ItsyBitsy RP2040 [MandoPuter Release](Releases/ItsyBitsyRP2040S3Beskar.zip)
 * Raspberry Pi Pico RP2040 [MandoPuter Release](Releases/RaspberryPiPicoRP2040Beskar.zip)
 
+#### Mandoputer ZIP file downloads for other displays (1.44")
+
+*These files were tested with CircuitPython 8.0.0-beta.6*
+
+* Adafruit Feather M4 Express [MandoPuter Release](Releases/FeatherM4-144.zip)
+
 Update your board and install the Mandoputer ZIP file before you start soldering anything. Make sure the basics work just in case you damage the board during soldering. Plugging the Feather into USB will power the board, you don't need a battery yet. If you have the battery connected when powered via USB it will charge (if your board has a charger). Do not use alkaline or NiMH batteries and connect to the battery port - this will destroy the LiPoly charger and there's no way to disable the charger. Do not use 7.4V RC batteries on the battery port - this will destroy the board. If you do not have a LiPoly battery then consider using a USB power bank.
 
 When you plug the board into your computer, it should show up just like a USB key and you copy file to it in the same way. No need to download anything, drag and drop.
