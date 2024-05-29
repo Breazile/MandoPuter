@@ -3,8 +3,6 @@ import busio
 import digitalio
 import displayio
 import neopixel
-from adafruit_st7789 import ST7789
-from adafruit_bitmap_font import bitmap_font
 from adafruit_lc709203f import LC709203F
 
 SPI_SPEED = 48000000

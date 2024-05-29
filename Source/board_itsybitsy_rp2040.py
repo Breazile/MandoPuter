@@ -4,8 +4,6 @@ import digitalio
 import displayio
 import neopixel
 from analogio import AnalogIn
-from adafruit_st7789 import ST7789
-from adafruit_bitmap_font import bitmap_font
 
 SPI_SPEED = 48000000
 

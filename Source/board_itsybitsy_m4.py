@@ -3,8 +3,6 @@ import busio
 import digitalio
 import displayio
 from analogio import AnalogIn
-from adafruit_st7789 import ST7789
-from adafruit_bitmap_font import bitmap_font
 import adafruit_dotstar as dotstar
 
 SPI_SPEED = 48000000

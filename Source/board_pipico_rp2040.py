@@ -3,8 +3,6 @@ import busio
 import digitalio
 import displayio
 from analogio import AnalogIn
-from adafruit_st7735r import ST7735R
-from adafruit_bitmap_font import bitmap_font
 
 SPI_SPEED = 48000000
 
