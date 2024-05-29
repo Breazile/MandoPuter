@@ -115,82 +115,82 @@ No need to write any code or use any other fancy tools. All of the code is in th
 
 ### 1. Install the software and files on the board
 
-You will likely need to update the [CircuitPython](https://circuitpython.org/) that is on your board to the version 8 (not the latest). Once you receive the board you will need to hold the **BOOT** button while connecting it to your computer via USB, and update CircuitPython via drag and drop to the usb drive.
+You will likely need to update the [CircuitPython](https://circuitpython.org/) that is on your board to version 8 (not the latest). Once you receive the board, you will need to hold the **BOOT** button while connecting it to your computer via USB, and update CircuitPython via drag and drop to the USB drive.
 
 CircuitPython versions 8.0.0-Beta6 to 8.2.7 have been tested with this code (your board may need to be updated/downgraded). See [CircuitPython](https://circuitpython.org/) for updating your specific board. Select "Previous Versions of CircuitPython" and find the correct .uf2 file version.
 
-Once your device reboots and you see a usb drive named "CIRCUITPY", return here and click the green download button at the top of this page.  Unzip the copy of the repo and find the Source folder, the files inside are what needs to be copied to your device (drag and drop).
+Once your device reboots and you see a USB drive named "CIRCUITPY", return here and download the latest release .zip file from the [Releases](https://github.com/thatdecade/MandoPuter/releases) page. Unzip the downloaded file and copy the contents to your device (drag and drop).
 
-Make sure you let the copy finish before you remove the USB cable or reset the board, or your system could be corrupted. It could take up to 90 seconds or more on some systems. If that happens, please read the [troubleshooting page](https://learn.adafruit.com/adafruit-esp32-s3-feather/troubleshooting)
+Make sure you let the copy finish before you remove the USB cable or reset the board, or your device could be corrupted. The copy process could take up to 90 seconds or more on some systems. If that happens, please read the [troubleshooting page](https://learn.adafruit.com/adafruit-esp32-s3-feather/troubleshooting).
 
-If you did it right, you will have overwritten the code.py file located in the root directory of your board.
+If you did it right, you will have overwritten the `code.py` file located in the root directory of your board.
 
 ### 2. Select your board configuration in `code.py`
 
 You can make selections for:
 
-- Display type (Beskar - 1.3", or Pre-Beskar 1.14") - should already be set for you in the ZIP file
-- Board type (boards have different capabilities) - should already be set for you in the ZIP file
-- Your name (if you want to display your name on boot)
-- Banner graphic (If you want 1 or 2 images displayed after your name before the sequence starts)
-- Customize the Mandalorian character sequence (if you want something different)
-- Customize the LCD backlight level (if you have the pink LIT wire connected to the LCD)
+- Display type (1.14" Pre-Beskar, 1.3" Beskar, 1.44", or 0.96")
+- Board type (boards have different wiring needs)
+- Your name (if you want to display your name on boot).
+- Banner graphic (If you want 1 or 2 images displayed after your name before the sequence starts).
+- Customize the Mandalorian character sequence (if you want something different).
+- Customize the LCD backlight level (if you have the pink LIT wire connected to the LCD).
 - Turn on the low battery icon if you want that feature. You must have the battery monitor wire soldered (not needed on Feather M4 and ESP32-S3). The ESP32-S3 library currently has a [bug](https://github.com/adafruit/circuitpython/issues/6311) where communications to the battery monitor chip fails occasionally. I would disable battery monitoring until that bug is fixed. Monitoring of a USB battery pack is not supported.
 
 #### Examples of Basic Configuration:
 
-1. **Choose the Display Type**:
-   - In the `code.py` file, find the section labeled `# Set the display type`.
-   - Uncomment the line corresponding to the display you are using by removing the `#` at the beginning of the line.
-   - Ensure only one display type is uncommented at a time.
-   - Example:
-     ```python
-     DISPLAY        = "Pre-Beskar"           # Adafruit 1.14" LCD display  https://www.adafruit.com/product/4383
-     #DISPLAY       = "Beskar"               # Adafruit 1.3" LCD display   https://www.adafruit.com/product/4313
-     #DISPLAY       = "1.44"                 # Adafruit 1.44" LCD display  https://www.adafruit.com/product/2088
-     #DISPLAY       = "0.96"                 # Adafruit 0.96" LCD display  https://www.adafruit.com/product/3533
-     ```
-
-2. **Set the Display Brightness**:
-   - Adjust the display brightness by modifying the `DISP_BRIGHT` variable.
-   - The value should be between 0 and 100 (representing the percentage of brightness).
-   - Example:
-     ```python
-     DISP_BRIGHT    = 80                     # How bright to make the display - 0% to 100%
-     ```
-
-3. **Select the Board Type**:
-   - In the `code.py` file, find the section labeled `# Board being used`.
+1. **Select the Board Type**:
+   - In the `code.py` file, find the section labeled `# Board setup imports`.
    - Uncomment the line corresponding to the board you are using by removing the `#` at the beginning of the line.
    - Ensure only one board type is uncommented at a time.
    - Example:
      ```python
-     #BOARD_TYPE    = "ESP32-S3"             # ESP32-S3                  https://www.adafruit.com/product/5477
-     #BOARD_TYPE    = "FeatherM4"            # Feather M4 Express        https://www.adafruit.com/product/3857
-     #BOARD_TYPE    = "ItsyBitsyM4"          # ItsyBitsy M4 Express      https://www.adafruit.com/product/3800
-     #BOARD_TYPE    = "ItsyBitsyRP2040"      # ItsyBitsy RP2040          https://www.adafruit.com/product/4888
-     #BOARD_TYPE    = "PiPicoRP2040"         # Raspberry Pi Pico RP2040  https://www.adafruit.com/product/4864
-     BOARD_TYPE     = "RS2040LILYGO"         # New RS2040LILYGO board
+     import board_lilygo as board_setup
+     # import board_esp32_s3 as board_setup
+     # import board_feather_m4 as board_setup
+     # import board_itsybitsy_m4 as board_setup
+     # import board_itsybitsy_rp2040 as board_setup
+     # import board_pipico_rp2040 as board_setup
+     ```
+
+2. **Choose the Display Type**:
+   - In the `code.py` file, find the section labeled `# Display type`.
+   - Uncomment the line corresponding to the display you are using by removing the `#` at the beginning of the line.
+   - Ensure only one display type is uncommented at a time.
+   - Example:
+     ```python
+     DISPLAY = "1.14"  # Pre-Beskar
+     # DISPLAY = "1.30"  # Beskar
+     # DISPLAY = "1.44"
+     # DISPLAY = "0.96"
+     ```
+
+3. **Set the Display Brightness**:
+   - Adjust the display brightness by modifying `DISP_BRIGHT`.
+   - The value should be between 0 and 100 (representing the percentage of brightness).
+   - Example:
+     ```python
+     DISP_BRIGHT = 80  # How bright to make the display - 0% to 100%
      ```
 
 4. **Customize Owner Information**:
-   - Set the `SHOW_NAME` variable to `1` to display the owner's name on startup, or `0` to not display it.
-   - Modify the `OWNER_NAME` variable to the desired name.
-   - Adjust the `NAME_COLOR` variable to change the color of the name display (use the [color-hex.com](https://www.color-hex.com/) website for color codes).
-   - Set the `NAME_HOLD` variable to define how many seconds the name should be displayed.
+   - Set `SHOW_NAME` to `1` to display the owner's name on startup, or `0` to not display it.
+   - Modify `OWNER_NAME` to the desired name.
+   - Adjust `NAME_COLOR` to change the color of the name display (use the [color-hex.com](https://www.color-hex.com/) website for color codes).
+   - Set `NAME_HOLD` to define how many seconds the name should be displayed.
    - Example:
      ```python
-     SHOW_NAME      = 1                      # Set to 1 to display the name, or 0 to not display a name
-     OWNER_NAME     = "Your Name Here"       # Name of the owner to be shown
-     NAME_COLOR     = 0x00FF00               # Green on black (you can chose colors here - https://www.color-hex.com/)
-     NAME_HOLD      = 3.0                    # How many seconds to display the name
+     SHOW_NAME = 1  # Set to 1 to display the name, or 0 to not display a name
+     OWNER_NAME = "Your Name Here"  # Name of the owner to be shown
+     NAME_COLOR = 0x00FF00  # Green on black (you can choose colors here - https://www.color-hex.com/)
+     NAME_HOLD = 3.0  # How many seconds to display the name
      ```
 
 Please follow this [guide](https://learn.adafruit.com/custom-fonts-for-pyportal-circuitpython-display/overview) if you would like to create a custom font.
 
 4. **Save**:
 
-After making changes, save the `code.py` file.  At this point your program should be running (circuitpython auto runs your program after saving the file).
+After making changes, save the `code.py` file. At this point, your program should be running (CircuitPython auto-runs your program after saving the file).
 
 ### 3. Solder the LCD
 
@@ -306,11 +306,27 @@ Maybe we will find hidden meaning in the sequence. Mandalorian language referenc
 
 ## Troubleshooting
 
-If you do not see anything on the display, check the onboard LED to see if the code is running properly. If you see a blue or red flashing LED then there is an error in the code. If that happens try updating CircuitPython, and be sure you copied **ALL** the files from the ZIP Source folder to the CIRCUITPY drive. You might also have an error in the code (code.py) if you have made a mistake, so try using the unmodified one from the ZIP file. 
+If you do not see anything on the display, check the onboard LED to see if the code is running properly. If you see a blue or red flashing LED, there is an error in the code. Here are some steps to troubleshoot the issue:
 
-You may power the board from the USB port, so try running it with the battery removed to isolate a battery related problem.
+1. **Update CircuitPython:**
+   - Ensure you are using a compatible version of CircuitPython (8.0.0-Beta6 to 8.2.7). If not, update your board with the correct version from the [CircuitPython](https://circuitpython.org/) website.
 
-Other brands of LCDs may require different polarity in the SPI communication signaling. Please stick to the linked parts for best results.
+2. **Verify File Copy:**
+   - Make sure you copied **ALL** the files from the ZIP to the CIRCUITPY drive. This includes `code.py`, libraries, and any other necessary files.
+
+3. **Check for Code Errors:**
+   - If you have modified `code.py` and encounter issues, try using the unmodified version from the ZIP to see if the problem persists. This can help identify if the issue is due to a customization error.
+
+4. **Power Supply:**
+   - Try running the board with the battery removed and powered via the USB port to isolate any battery-related problems.
+
+5. **Use Recommended Parts:**
+   - Other brands of LCDs may require different polarity in the SPI communication signaling. For best results, use the linked parts above.
+
+6. **Enable Debugging:**
+   - If your board supports it, you may set `DEBUG_SERIAL` to `1` in `code.py` to enable debugging messages. Then listen using a serial terminal, such as putty.
+
+By following these steps, you can troubleshoot and resolve common issues that might arise during setup and operation. If problems persist, consult the [troubleshooting page](https://learn.adafruit.com/adafruit-esp32-s3-feather/troubleshooting) for additional help.
 
 ## Want to know more?
 
