@@ -8,7 +8,7 @@ from adafruit_bitmap_font import bitmap_font
 
 SPI_SPEED = 48000000
 
-def initialize_display():
+def init():
     displayio.release_displays()
     spi = busio.SPI(clock=board.GP2, MOSI=board.GP3)
     while not spi.try_lock():
@@ -22,11 +22,8 @@ def initialize_display():
     lcd_light = board.GP4
 
     display_bus = displayio.FourWire(spi, command=tft_dc, chip_select=tft_cs, baudrate=SPI_SPEED, reset=lcd_rst, polarity=0, phase=0)
-    display = ST7789(display_bus, rotation=270, width=240, height=135, rowstart=40, colstart=53, auto_refresh=False, backlight_pin=lcd_light, brightness=0)
-    font = bitmap_font.load_font("mandalor135.bdf")
-    offset = 12
 
-    return display, font, offset
+    return display_bus, lcd_light
 
 def configure_led(enable_leds):
     led = digitalio.DigitalInOut(board.GP25)

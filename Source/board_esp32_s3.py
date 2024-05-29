@@ -9,7 +9,7 @@ from adafruit_lc709203f import LC709203F
 
 SPI_SPEED = 48000000
 
-def initialize_display():
+def init():
     displayio.release_displays()
     spi = board.SPI()
     while not spi.try_lock():
@@ -23,11 +23,8 @@ def initialize_display():
     lcd_light = board.D10
 
     display_bus = displayio.FourWire(spi, command=tft_dc, chip_select=tft_cs, baudrate=SPI_SPEED, reset=lcd_rst, polarity=0, phase=0)
-    display = ST7789(display_bus, rotation=0, width=240, height=240, rowstart=80, auto_refresh=False, backlight_pin=lcd_light, brightness=0)
-    font = bitmap_font.load_font("mandalor165.bdf")
-    offset = 14
 
-    return display, font, offset
+    return display_bus, lcd_light
 
 def configure_led(enable_leds):
     led_pwr = digitalio.DigitalInOut(board.NEOPIXEL_POWER)
