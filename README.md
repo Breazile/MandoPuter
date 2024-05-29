@@ -53,7 +53,7 @@ Some links are amazon affiliate links.  We are a participant in the Amazon Servi
 1) Display and Microcontroller Selections
     1) Combined Devices
     - [LilyGo RP2040 w/ 1.14" LCD](https://amzn.to/4aBkma1)
-    2) LCD and Microcontroller Seperate
+    2) LCD and Microcontroller Separate
         1) One supported display
         - [1.14" LCD](https://www.adafruit.com/product/4383)  **<--- preferred display for the GreatApeStudioArt [pre-Beskar](https://greatapestudio.com/products/the-mandalorian-bracers-digital-3d-models-download) gauntlet**
         - [1.30" LCD](https://www.adafruit.com/product/4313)  **<--- preferred display for the GreatApeStudioArt [Beskar](https://greatapestudio.com/products/the-mandalorian-beskar-bracers-digital-3d-model-download) gauntlet**
@@ -190,7 +190,7 @@ Please follow this [guide](https://learn.adafruit.com/custom-fonts-for-pyportal-
 
 4. **Save**:
 
-After making changes, save the `code.py` file.  At this point your program should be running (circuitpython auto runs your pgram after saving the file).
+After making changes, save the `code.py` file.  At this point your program should be running (circuitpython auto runs your program after saving the file).
 
 ### 3. Solder the LCD
 
