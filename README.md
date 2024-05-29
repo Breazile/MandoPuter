@@ -72,14 +72,19 @@ If you have any trouble finding the parts above, check [OctoPart](https://www.oc
 
 ## Which board should I use?
 
-Board | LCD | CPU & RAM | Flash storage | Battery Connector | Battery Charger | Fuel Gauge | WiFi & Bluetooth*
------------- | ------------- | ------------ | ------- | ------ | -------- | ---
-[Adafruit ESP32-S3 Feather](https://www.adafruit.com/product/5477) |  | Dual Core Tensilica processor @ 240MHz, 2 MB RAM | 4 MB | Yes | Built-in | Yes | Yes / Yes
-[Adafruit Feather M4 Express](https://www.adafruit.com/product/3857) | | Cortex M4 core @ 120 MHz, 192 KB RAM | 512 KB | Yes | Built-in | No | No
-[Adafruit ItsyBitsy M4 Express](https://www.adafruit.com/product/3800) | | Cortex M4 core @ 120 MHz, 192 KB RAM | 512 KB | No | No | No | No
-[Adafruit ItsyBitsy RP2040](https://www.adafruit.com/product/4888) |  | Cortex M0+ dual core @ 125 MHz, 264 KB RAM | 8 MB | No | No | No | No
-[Raspberry Pi Pico RP2040](https://www.adafruit.com/product/4864) | | Dual ARM Cortex-M0+ @ 133MHz, 264 KB RAM | 2 MB | No | No | No | No
-[LilyGo RP2040 w/ 1.14" LCD](https://amzn.to/4aBkma1) | 1.14" LCD | Dual ARM Cortex-M0+ @ 133MHz, 264 KB RAM | 4 MB | Yes | Yes | Yes | Yes / No
+Sure, here is the fixed table with proper alignment and headers:
+
+## Which board should I use?
+
+| Board                                                                                                   | LCD         | CPU & RAM                                  | Flash storage | Battery Connector | Battery Charger | Fuel Gauge | WiFi & Bluetooth* |
+|---------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------|---------------|-------------------|-----------------|------------|-------------------|
+| [Adafruit ESP32-S3 Feather](https://www.adafruit.com/product/5477)                                      |             | Dual Core Tensilica processor @ 240MHz, 2 MB RAM | 4 MB         | Yes               | Built-in        | Yes        | Yes / Yes         |
+| [Adafruit Feather M4 Express](https://www.adafruit.com/product/3857)                                    |             | Cortex M4 core @ 120 MHz, 192 KB RAM       | 512 KB        | Yes               | Built-in        | No         | No                |
+| [Adafruit ItsyBitsy M4 Express](https://www.adafruit.com/product/3800)                                  |             | Cortex M4 core @ 120 MHz, 192 KB RAM       | 512 KB        | No                | No              | No         | No                |
+| [Adafruit ItsyBitsy RP2040](https://www.adafruit.com/product/4888)                                      |             | Cortex M0+ dual core @ 125 MHz, 264 KB RAM | 8 MB          | No                | No              | No         | No                |
+| [Raspberry Pi Pico RP2040](https://www.adafruit.com/product/4864)                                       |             | Dual ARM Cortex-M0+ @ 133MHz, 264 KB RAM   | 2 MB          | No                | No              | No         | No                |
+| [LilyGo RP2040 w/ 1.14" LCD](https://amzn.to/4aBkma1)                                                   | 1.14" LCD   | Dual ARM Cortex-M0+ @ 133MHz, 264 KB RAM   | 4 MB          | Yes               | Yes             | Yes        | Yes / No          |
+
 
 \* WiFi & Bluetooth are currently not used, but considering in the future.
 
