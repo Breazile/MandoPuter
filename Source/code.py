@@ -1,11 +1,11 @@
 import gc
 import time
-import sleep
 import displayio
 import battery_monitor
 import display_images
 from adafruit_display_text import label
 import adafruit_imageload
+import sleep
 
 # -----------------------------------------------------------------------------
 # Board Configuration
@@ -47,6 +47,8 @@ LOW_BATT_LEVEL = 10  # Show the low battery icon when the battery goes below thi
 # Other settings for debugging
 ENABLE_LEDS = 1  # Set to 1 to turn on LEDs for debugging, set to 0 to save battery
 DEBUG_SERIAL = 1  # If your board has a debug port, you can read the system messages.
+
+SLEEP_TIMEOUT_SECONDS = 15 # 3600 seconds = 1 hour
 
 # -----------------------------------------------------------------------------
 # Banner graphics settings
@@ -127,7 +129,7 @@ if SHOW_IMG:
 button_pins = None
 if hasattr(board_setup, 'configure_buttons'):
     button_pins = board_setup.configure_buttons()
-    sleep.init(button_pins)
+    sleep.init(button_pins, SLEEP_TIMEOUT_SECONDS)
     debug_print("Sleep timer started")
 else:
     debug_print("No button configuration found in board_setup.")
@@ -175,4 +177,4 @@ while True:
                 debug_print("Low battery icon removed")
     
     if button_pins:
-        sleep.check_sleep(button_pins, timeout_hours=1)
+        debug_print(f"sleep timer: {sleep.check_sleep(button_pins)}");
