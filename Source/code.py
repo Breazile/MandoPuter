@@ -1,5 +1,6 @@
 import gc
 import time
+import sleep
 import displayio
 import battery_monitor
 import display_images
@@ -122,6 +123,15 @@ if SHOW_IMG:
         display_images.display_image(display, IMG2, IMG2_HOLD)
         debug_print(f"Displayed image: {IMG2}")
 
+# Initialize sleep module
+button_pins = None
+if hasattr(board_setup, 'configure_buttons'):
+    button_pins = board_setup.configure_buttons()
+    sleep.init(button_pins)
+    debug_print("Sleep timer started")
+else:
+    debug_print("No button configuration found in board_setup.")
+
 # Main loop
 gc.collect()
 debug_print("Starting main loop")
@@ -163,3 +173,6 @@ while True:
                 stage.pop()
                 low_batt_icon = 0
                 debug_print("Low battery icon removed")
+    
+    if button_pins:
+        sleep.check_sleep(button_pins, timeout_hours=1)

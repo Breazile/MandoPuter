@@ -35,3 +35,7 @@ def configure_led(enable_leds):
 def configure_battery_monitor():
     vbat_voltage_pin = AnalogIn(board.GP26)
     return vbat_voltage_pin
+
+def configure_buttons():
+    buttons = [board.GP6, board.GP7]
+    return buttons

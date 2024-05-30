@@ -7,25 +7,26 @@
 
 
 ![Image](Images/MandoChannel.jpg)
+
 # What is a MandoPuter?
 
 A basic electronics system that will display Mandalorian characters on a small display (I'm paying homage to Lego Batman with the name "Puter"). Use this as a starting point for adding displays to your costume (like a gauntlet). Feel free to copy the design, modify it, or make feature requests. 
 
 ## Contents
-* [Features](README.md#Features)
-* [Wish List](README.md#Wish-List)
-* [Parts list](README.md#Parts-list)
-* [Which board should I use?](README.md#Which-board-should-I-use)
-* [Suggested Tools](README.md#Suggested-Tools)
-* [Installation Steps](README.md#Installation-Steps)
-    1. [Install the software and files on the board](README.md#Install-the-software-and-files-on-the-board)
-    2. [Customize options](README.md#Customize-options)
-    3. [Solder the LCD](README.md#Solder-the-LCD)
-    4. [Power the board](README.md#Power-the-board)
-* [Latest Mandalorian Font](README.md#Latest-Mandalorian-Font)
-* [Where can I get help?](README.md#Where-can-I-get-help)
-* [Troubleshooting](README.md#Troubleshooting)
-* [Want to know more?](README.md#Want-to-know-more)
+* [Features](#features)
+* [Wish List](#wish-list)
+* [Parts list](#parts-list)
+* [Which board should I use?](#which-board-should-i-use)
+* [Suggested Tools](#suggested-tools)
+* [Installation Steps](#installation-steps)
+    1. [Install the software and files on the board](#1-install-the-software-and-files-on-the-board)
+    2. [Select your board configuration in `code.py`](#2-select-your-board-configuration-in-codepy)
+    3. [Solder the LCD](#3-solder-the-lcd)
+    4. [Power the board](#4-power-the-board)
+* [Latest Mandalorian Font](#latest-mandalorian-font)
+* [Where can I get help?](#where-can-i-get-help)
+* [Troubleshooting](#troubleshooting)
+* [Want to know more?](#want-to-know-more)
 
 ## Features:
 
@@ -36,13 +37,12 @@ A basic electronics system that will display Mandalorian characters on a small d
 * Configurable LCD backlight brightness
 * Disable the onboard LED to save power
 * RAM efficient and easy to understand implementation
+* Deep sleep to save power after 1 hour of no interaction. Press any button to wake.
 
 ## Wish List:
 
-* Code refactor, for easier configuration and maintenance.
 * Wifi configuration page for changing the splash screen
 * Compatibility with latest circuitpython 9
-* Deep sleep - command the board to sleep for a certain amount of time (or until an external button is pressed)
 * Bluetooth - I'm looking into Bluetooth features once Adafruit has completed development
 * Audio - playback of audio files (WAV)
 
