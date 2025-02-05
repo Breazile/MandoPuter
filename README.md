@@ -99,7 +99,7 @@ The MandoPuter code is based on [CircuitPython](https://circuitpython.org/) whic
 
 CircuitPython v8.0.0-Beta6 is the latest release when I wrote created V2 (your board may need to be updated). See the guides below for updating your specific board. When they make future releases of CircuitPython then I'll probably need to update the libraries in the lib directory. If you update CircuitPython in the future to a new release (like V9) there's a chance that the code will need to be changed.
 
-#### Guides for updating CircuitPython on your board (version 8.x.x is supported - beta version is OK)
+#### Guides for updating CircuitPython on your board (last tested on 9.2.4 - beta version is OK)
 * Adafruit ESP32-S3 Feather [CircuitPython download page](https://circuitpython.org/board/adafruit_feather_esp32s3_4mbflash_2mbpsram/). Instructions for [installing CurcuitPython](https://learn.adafruit.com/adafruit-esp32-s3-feather/circuitpython). You'll need a USB-C cable
 * Adafruit Feather M4 Express [CircuitPython download page](https://circuitpython.org/board/feather_m4_express/). Instructions for [installing CurcuitPython](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython). You'll need a Micro USB cable
 * Adafruit ItsyBitsy M4 Express [CircuitPython download page](https://circuitpython.org/board/itsybitsy_m4_express/). Instructions for [installing CurcuitPython](https://learn.adafruit.com/introducing-adafruit-itsybitsy-m4/circuitpython). You'll need a Micro USB  cable
